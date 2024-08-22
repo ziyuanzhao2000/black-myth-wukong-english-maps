@@ -37,10 +37,22 @@ main {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-p {
+/* Section styling for chapters */
+.chapter {
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+}
+
+.chapter h2 {
+    font-size: 1.5em;
+    color: #333;
     margin-bottom: 10px;
 }
 
+/* Link styling */
 .map-link {
     color: #007bff;
     text-decoration: none;
@@ -64,4 +76,14 @@ footer {
 
 footer p {
     margin: 0;
+}
+
+/* Specific styles for Chapter 3 section */
+.chapter.chapter-3 {
+    border-color: #007bff;
+    background: #e9f5ff;
+}
+
+.chapter.chapter-3 h2 {
+    color: #0056b3;
 }
