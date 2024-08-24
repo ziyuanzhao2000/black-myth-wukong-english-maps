@@ -1,6 +1,12 @@
 ### Black Myth: Wukong Map Translation Project
 
+### PROJECT ON HOLD as of 08/24/24
+This project is quite a sprint, but even so, we found that another kind-hearted gamer has already translated many contents from the Gamersky maps that we are working on, and they have hosted the maps using a nicer-looking UI (Leaflet over Plotly, which I'm more familiar with). You can access their maps [here](https://blackmyth.gg/map). Thanks to Xiao Yao ([@SissyXXXY](https://github.com/SissiXXXY)) for helping out with this project!
+
 #### [The Maps Are Here](https://ziyuanzhao2000.github.io/black-myth-wukong-english-maps/)
+#### [Translation (WIP) Are Here](https://docs.google.com/spreadsheets/d/1Sk6khum1qcLbmbbUnz3YCINLk8FlV33n2I-1W7bfqrQ/edit?gid=378787150#gid=378787150)
+
+
 
 #### Overview
 [Black Myth: Wukong](https://store.steampowered.com/app/2358720/Black_Myth_Wukong/) is a highly anticipated action RPG that has garnered significant attention since its release. However, the game currently lacks an in-game map, which has been a point of frustration for many new players (see [1](https://www.reddit.com/r/BlackMythWukong/comments/1eu51nc/lack_of_a_map/), [2](https://www.reddit.com/r/BlackMythWukong/comments/1ewo4wc/if_the_first_update_doesnt_add_a_map_to_this_game/)). To address this, we've undertaken the task of translating and hosting maps from the [Gamersky website](https://www.gamersky.com/tools/map/wukong/?mapId=4), providing an English version to assist players in navigating the game's world.
