@@ -1,0 +1,430 @@
+id,name_cn,name_en,landmark_catalog_name,description_cn,description_en,map_name,x,y,landmark_catalog_id,landmark_catalog_uniform_id,map_id
+821466,广智,Translation Pending,Yaoguai Chief,"<p>即演示中出现过的刀狼教头</p><p>[打法心得]</p><p>注意躲避冲锋技，然后如果被点燃记得连续翻滚可以灭火，有持续伤害</p><p>[奖励]:</p><p>【法术】赤潮：<span style=""font-family: var(--van-base-font);"">神通-变化广智</span></p>",Translation Pending,Black Wind Mountain,-1.067179466957839,0.7180514865645051,3281,11,48
+821460,苍狼林-前山,Translation Pending,Shrine,"<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p><p>土地庙的功能会随着游戏进度逐步解锁，初始就有的3个功能是<br></p><p class=""MsoNormal"">调息：回满血、魔法、葫芦里的酒，同时妖怪们也会刷新复活。<span lang=""EN-US""><o:p></o:p></span></p><p class=""MsoNormal"">缩地：可以传送到已解锁的土地庙。</p><p class=""MsoNormal""><span style=""font-family: var(--van-base-font);"">谢礼：领取预购、豪华版奖励的装备，在游戏初期有些帮助。</span></p>",Translation Pending,Black Wind Mountain,-1.088327443434281,0.47253874482024116,3266,0,48
+821461,苍狼林-林外,Translation Pending,Shrine,<p>[注意事项]:在第二个土地庙解锁了新功能。</p><p>修行-法术整备：当获得的法术技能越来越多后，在这里更换装备中的法术。</p><p>修行-天赋重修：可随时免费洗技能点。可以一下全部洗掉返还所有技能点，也可以有针对性地逐个挑选洗点。</p><p>货殖：就是商店，可以买卖物品。根据需要购买丹药、材料、药材，碎金片可以卖了换钱。</p>,Translation Pending,Black Wind Mountain,-1.1575833945760508,0.642549374256518,3266,0,48
+821469,观音禅院,Translation Pending,Shrine,<p>[注意事项]</p><p>来到观音禅院，土地庙解锁“披挂铸造”功能，制作【行者套装】。</p><p>先搜刮下院子，左前方角落里有个宝箱，然后继续往前走打灵虚子。</p>,Translation Pending,Black Wind Mountain,-1.0129157989583746,0.6314815624696877,3266,0,48
+821472,翠竹林-后山,Translation Pending,Shrine,<p>[注意事项]</p>,Translation Pending,Black Wind Mountain,-0.9442512481760161,0.715246521845259,3266,0,48
+821474,隐·旧观音禅院,Translation Pending,Shrine,<p>[注意事项]</p><p>土地庙解锁兵器铸造，初始武器柳木棍可以进行升级。</p><p>在披挂铸造解锁制作【锦鳞套装】。</p>,Translation Pending,Black Wind Mountain,-0.913505664318194,0.6187614741232892,3266,0,48
+821481,翠竹林-蛇径,Translation Pending,Shrine,<p>[注意事项]</p><p>推荐优先走右侧上山道路点化葫芦。回来就可以在土地庙拾遗之前击杀的幽魂的魂魄了。</p><p>击杀一个蛇人175经验，右手上坡过桥1个，打完右转跳下去1个，再沿路前进还有2个，一共700经验</p>,Translation Pending,Black Wind Mountain,-0.876932590482312,0.9702312038802745,3266,0,48
+821486,翠竹林-白雾泽,Translation Pending,Shrine,<p>[注意事项] 黑风山过完后在黑风山任意土地庙购买珍玩【不求人】小幅增加气力上限</p>,Translation Pending,Black Wind Mountain,-0.61604829332083,0.8728017961159509,3266,0,48
+821494,黑风洞-洞内,Translation Pending,Shrine,<p>[注意事项]</p><p>土地庙的披挂铸造解锁制作【青铜套装】<br></p>,Translation Pending,Black Wind Mountain,-0.41466526998630115,0.6289223357244964,3266,0,48
+821498,黑风洞-洞外,Translation Pending,Shrine,<p>[注意事项]</p>,Translation Pending,Black Wind Mountain,-0.2932934165163772,0.6308205912819602,3266,0,48
+821569,黑风洞-见谛峰,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p>,Translation Pending,Black Wind Mountain,-0.13587041838590608,0.26905836640487735,3266,0,48
+821478,翠竹林岩洞内打坐处,Translation Pending,Meditation Spot,<p>[地点描述]:坐上去欣赏风景可得一个技能点</p>,Translation Pending,Black Wind Mountain,-1.073800767068576,0.7927712114347258,3267,1,48
+821493,黑风洞崖岸前打坐处,Translation Pending,Meditation Spot,<p>[地点描述]:坐上去欣赏风景可得一个技能点</p>,Translation Pending,Black Wind Mountain,-0.41971831749299326,0.6768296324010237,3267,1,48
+821560,苍狼林山林内打坐处,Translation Pending,Meditation Spot,<p>[地点描述]:坐上去欣赏风景可得一个技能点</p><p>旁边坛子全打了有灵蕴</p>,Translation Pending,Black Wind Mountain,-1.1752996704273073,0.5586061639135949,3267,1,48
+821463,材料宝箱,Translation Pending,Chest,"<p>[奖励物品]</p><p>随机掉落</p><p>碎金石×2+<span style=""font-family: var(--van-base-font);"">精石×3&nbsp;</span><span style=""font-family: var(--van-base-font);"">或者 碎金石×5</span></p>",Translation Pending,Black Wind Mountain,-1.125556396665388,0.44540371981938165,3268,2,48
+821465,避凶药×2,Translation Pending,Chest,<p>[奖励物品]</p><p>避凶药×2</p><p>碎金片×5</p>,Translation Pending,Black Wind Mountain,-1.1128207167157314,0.6482714793780957,3268,2,48
+821475,南海念珠,Translation Pending,Chest,<p>[注意事项]</p><p>附近有好几个宝箱，这个是手套</p>,Translation Pending,Black Wind Mountain,-0.8675578558878669,0.6127686278276627,3268,2,48
+821479,材料宝箱,Translation Pending,Chest,<p>[注意事项]</p><p>棺材式样的宝箱，掉落物随机</p>,Translation Pending,Black Wind Mountain,-0.9480017999224799,0.8237258810117822,3268,2,48
+821480,3样药剂,Translation Pending,Chest,<p>[注意事项]</p><p>清凉散、伏虎丸×2、益气膏</p><p>或度瘴散，延寿膏，避凶药</p>,Translation Pending,Black Wind Mountain,-0.9023934750152307,0.9025452745392499,3268,2,48
+821500,铁中血,Translation Pending,Chest,<p>铁中血（中等级强化素材）+碎金片×5 或棉纱*4</p>,Translation Pending,Black Wind Mountain,-0.25603643260305375,0.5556061062312523,3268,2,48
+821561,材料宝箱,Translation Pending,Chest,"<p>[奖励物品]:</p><p>碎金片×2&nbsp;<span style=""font-family: var(--van-base-font);"">精石×3 或 碎金片×5</span></p>",Translation Pending,Black Wind Mountain,-1.0219905714346567,0.6449651056851167,3268,2,48
+821562,棉纱×2,Translation Pending,Chest,<p>[奖励物品]:</p><p>棉纱或精石×2</p><p>碎金片×5</p>,Translation Pending,Black Wind Mountain,-0.9461321145483055,0.6769011658530246,3268,2,48
+821589,精石×3,Translation Pending,Chest,<p>[奖励物品]:精石×3</p>,Translation Pending,Black Wind Mountain,-0.8620255235932461,0.6066271037507391,3268,2,48
+821590,棉纱×3,Translation Pending,Chest,<p>[奖励物品]:棉纱×3</p>,Translation Pending,Black Wind Mountain,-0.8599941260099797,0.6172111506488847,3268,2,48
+821593,碎金块×5,Translation Pending,Chest,<p>[奖励物品]:碎金块×5</p>,Translation Pending,Black Wind Mountain,-0.5591223662418372,0.8223949571304274,3268,2,48
+821785,擎电尾,Translation Pending,Chest,<p>[奖励物品]:击杀BOSS后出现</p>,Translation Pending,Black Wind Mountain,-1.1341805955756001,0.6888912596385808,3268,2,48
+821471,碧藕金丹,Translation Pending,Pill,<p>[注意事项]</p><p>可提升生命上限，不要错过</p>,Translation Pending,Black Wind Mountain,-0.9936897247392835,0.6987682843307397,3269,3,48
+821492,太乙紫金丹,Translation Pending,Pill,<p>提升法术上限</p>,Translation Pending,Black Wind Mountain,-0.4298319403923472,0.6776583831563414,3269,3,48
+821501,九转金丹,Translation Pending,Pill,<p>[注意事项]</p><p>提高最大气力</p>,Translation Pending,Black Wind Mountain,-0.2304693676440479,0.41340948027374225,3269,3,48
+821566,胆中珠,Translation Pending,Vessel/Drink/Soak,<p>[注意事项]</p><p>打面前的蛇妖救出申猴，得到【泡酒物】胆中珠<br></p>,Translation Pending,Black Wind Mountain,-0.5897973008715383,0.8075077401223609,3270,4,48
+821567,瑶池莲子,Translation Pending,Vessel/Drink/Soak,<p>[注意事项]</p><p>在申猴这里可以买到【泡酒物】瑶池莲子<br></p><p>可以喝酒后略微持续回血</p>,Translation Pending,Black Wind Mountain,-0.6636556527411983,0.7918571636055276,3270,4,48
+821629,嫩玉藕,Translation Pending,Vessel/Drink/Soak,<p>[注意事项]击败青蛙概率获取或采集植物</p>,Translation Pending,Black Wind Mountain,-1.245741639463489,0.5714137957292849,3270,4,48
+821558,缩地青符,Translation Pending,Key Item,<p>[获取方式]:<br>与土地公对话获得</p><p>[用途]:</p><p>回到最近的上一个土地庙</p>,Translation Pending,Black Wind Mountain,-1.0748387392351333,0.4780545219076373,3273,6,48
+821559,色蕴,Translation Pending,Key Item,<p>[获取方式]:<br>老鼠妖精藏在河道尽头一个佛头处，拾取</p><p>[用途]:</p><p>后续剧情中可获得里面的道具</p>,Translation Pending,Black Wind Mountain,-1.2400068131423438,0.43928395140139287,3273,6,48
+821555,猫睛宝串,Translation Pending,Curio,<p>[获取方式]:</p><p>击败幽魂后获得</p><p>[珍玩]:<br></p><p>些微增加暴击率</p>,Translation Pending,Black Wind Mountain,-1.0825535907631547,0.6154262150327838,3274,7,48
+821568,玛瑙罐,Translation Pending,Curio,"<p>[获取方式]:</p><p><span style=""font-family: var(--van-base-font);"">主干道左侧一口钟旁边，开小盒子得到【珍玩】玛瑙罐。</span></p><p class=""MsoNormal""><span lang=""EN-US""><o:p></o:p></span></p>",Translation Pending,Black Wind Mountain,-0.36436010668052177,0.6320511085749985,3274,7,48
+821491,辟火罩,Translation Pending,Vessel,<p>[获取方式]</p><p>击败金池长老后，查看吊着的狼妖，得到【法宝】辟火罩，专门用于打黑熊精。</p>,Translation Pending,Black Wind Mountain,-0.4332810163293175,0.7305402190029469,3275,8,48
+821499,狼刺客精魄,Translation Pending,Spirit,<p>[获取方式]</p><p>击败宝箱附近的狼妖得到<br></p>,Translation Pending,Black Wind Mountain,-0.23016836310711142,0.5412356148740116,3276,9,48
+821503,幽魂的精魂,Translation Pending,Spirit,<p>[获取方式]</p><p>击败幽魂后获取，这个变身非常好用，高伤害+高硬直。</p><p>前期击杀后不能拾取，在后面找到葫芦仙人点化后可以在土地庙炼精里面领取。</p><p><br></p>,Translation Pending,Black Wind Mountain,-1.0976799378211126,0.6267847177988557,3276,9,48
+821564,波里个浪的精魂,Translation Pending,Spirit,<p>[获取方式]:击败头目波里个浪</p>,Translation Pending,Black Wind Mountain,-1.0299088599442996,1.1081943470450426,3276,9,48
+821565,广谋的精魂,Translation Pending,Spirit,<p>[获取方式]:击败广谋后获得</p>,Translation Pending,Black Wind Mountain,-0.6049307043591057,1.021511500469174,3276,9,48
+821477,马哥,Translation Pending,Characters,"<div><span style=""font-family: var(--van-base-font);"">开启马哥系列支线，会在后面的章节不断遇到他</span><br></div>",Translation Pending,Black Wind Mountain,-1.070847666222761,0.8110807042326513,3280,10,48
+821488,申猴,Translation Pending,Characters,申猴会一直待在这里，为玩家提供葫芦方面的升级。<div>后面章节也可以回来升级葫芦</div><div>NPC每章结束后会增加可购买商品</div>,Translation Pending,Black Wind Mountain,-0.6440863994845358,0.7955154493870253,3280,10,48
+821563,葫芦仙人,Translation Pending,Characters,"<p>[相关事件]:<br></p><p>以后会多次遇到的NPC，<span style=""font-family: var(--van-base-font);"">葫芦仙人会点化你的葫芦，然后就可以用葫芦吸收精魄了。和葫芦仙人反复对话直到重复为止。</span></p><p>[奖励]:</p><p>解锁【吸收精魄】功能</p>",Translation Pending,Black Wind Mountain,-0.8317022058258488,1.0290588737372985,3280,10,48
+821574,土地公(林外),Translation Pending,Characters,<p>[相关事件]:<br></p><p>参拜土地庙后出现</p><p>[体验]:</p><p>体验一次神通-变身金蝉</p><p>一旦恢复人形，则不可再次变身。</p><p>可购买珍玩[不求人]，增加气力上限</p>,Translation Pending,Black Wind Mountain,-1.1682825785835576,0.6420671109978286,3280,10,48
+821575,土地公(前山),Translation Pending,Characters,<p>[相关事件]:<br></p><p>告诉你需要参拜土地庙</p><p>[奖励]:</p><p>缩地青符<br></p>,Translation Pending,Black Wind Mountain,-1.0860970292375782,0.4642667946502286,3280,10,48
+821464,牯护院,Translation Pending,Yaoguai Chief,<p>[奖励]:</p><p>与牯护院战斗过半，土地公会出现并传授你 法术【定身】</p>,Translation Pending,Black Wind Mountain,-1.2155445825765696,0.4741060641425179,3281,11,48
+821482,波里个浪,Translation Pending,Yaoguai Chief,<p>[奖励]</p><p>可获得它的精魄</p>,Translation Pending,Black Wind Mountain,-1.0285831448236422,1.089763762048392,3281,11,48
+821484,广谋,Translation Pending,Yaoguai Chief,<p>[奖励]</p><p>可获得广谋的精魄</p><p>记得转棍化解 远程攻击</p><p>点出减少异常状态的加点 降低难度</p>,Translation Pending,Black Wind Mountain,-0.6222698307683174,1.051683772902706,3281,11,48
+821489,白衣秀士,Translation Pending,Yaoguai Chief,<p>注意，这个BOSS有2条血，会二阶段变身</p><p>[奖励]</p><p>武器升级材料【玉垂牙】</p>,Translation Pending,Black Wind Mountain,-0.5482667794590839,0.7447240996296074,3281,11,48
+821576,幽魂,Translation Pending,Yaoguai Chief,<p>[奖励]:</p><p>幽魂的精魄、猫晴宝串</p><p>[攻略要点]:</p><p>撞到石碑有长硬直，在石碑旁等待即可。</p><p>建议先打了广智拿变身再打，一直用轻击+劈棍可以无限硬直，怪血不多了就开变身广智收掉。</p><p>不过还是挺难打的，打不过直接走也行，打不了打完灵虚子再打他，魂3太刀哥了属于是。</p><p>【重要提示！敲完三钟，击杀金池幽魂将消失，无法获得精魄，请提前击杀】</p>,Translation Pending,Black Wind Mountain,-1.0948689331752917,0.6291817924160625,3281,11,48
+821470,灵虚子,Translation Pending,Yaoguai King,<p>[奖励]:</p><p>【头冠】白脸子、【稀有材料】玲珑内丹</p><p>[攻略要点]:</p><p>弱火伤，变个刀狼狠狠鞭打</p>,Translation Pending,Black Wind Mountain,-0.9840766876291127,0.6651250380693199,3282,12,48
+821473,金池长老,Translation Pending,Yaoguai King,<p>敲响地图的三个钟就可以打这个BOSS。</p><p>当他升到空中时注意，四周会有很多僵尸向金池长老走去，赶紧消灭这些僵尸，不然金池长老会靠僵尸回血。（你攻击僵尸也会给你回血）<br></p><p>[奖励]</p><p>法宝【避火罩】</p>,Translation Pending,Black Wind Mountain,-0.8856269141881796,0.6512718607334449,3282,12,48
+821497,黑风大王,Translation Pending,Yaoguai King,<p>[打法心得]</p><p>BOSS会化为雾气，注意躲避，不急</p><p>[奖励]</p><p>【法术】聚形散气<br></p>,Translation Pending,Black Wind Mountain,-0.37838429115302574,0.6286342038764872,3282,12,48
+821502,黑熊精,Translation Pending,Yaoguai King,<p>[打法简要]</p><p>黑熊精二阶段会使用火焰攻击，务必先去获得辟火罩后再来打，能简单非常多</p><p>[奖励]</p><p>击败黑熊精后获得“根器”，效果三选一，在土地庙洗点时也可以更换根器效果。</p><p>以及其他大量优质材料奖励</p><p>击杀后的图画放大之后会有对话。</p>,Translation Pending,Black Wind Mountain,-0.13969356050310466,0.37144670830738846,3282,12,48
+821504,赤髯龙,Translation Pending,Yaoguai King,<p>需要在第二章获取了“龙鳞”后，回来对着瀑布互动后触发</p><p>[奖励]麟棍·蟠龙图纸 博山炉 掣电尾 龙珠</p>,Translation Pending,Black Wind Mountain,-1.1294863957744496,0.6854081142715529,3282,12,48
+821487,落伽香藤,Translation Pending,Luojia Fragrant Vine,用于提升葫芦使用次数,Translation Pending,Black Wind Mountain,-0.5756797268166451,0.8943415524895784,3278,13,48
+821495,三冬虫,Translation Pending,Awaken Wine Worm,<p>在发光的罐子里，打碎后获得，用于升级酒品</p>,Translation Pending,Black Wind Mountain,-0.38844302918747076,0.6397210557112913,3279,14,48
+821557,老山参,Translation Pending,Medicinal Ingredient,<p>[获得方式]:采集有红色果实的药草</p>,Translation Pending,Black Wind Mountain,-1.1327806915682004,0.37318170045408294,3277,15,48
+821570,碧藕×2,Translation Pending,Medicinal Ingredient,<p>[获得方式]:河道里采集</p>,Translation Pending,Black Wind Mountain,-1.1577640406397904,0.4383353657799631,3277,15,48
+821571,龙胆×2,Translation Pending,Medicinal Ingredient,<p>[获得方式]:采集药材</p>,Translation Pending,Black Wind Mountain,-1.1496628070084398,0.40065322674506376,3277,15,48
+821572,碧藕,Translation Pending,Medicinal Ingredient,<p>[获得方式]:小池塘里</p>,Translation Pending,Black Wind Mountain,-1.253772285911566,0.5692847538414867,3277,15,48
+821573,紫芝,Translation Pending,Medicinal Ingredient,<p>[获得方式]:</p>,Translation Pending,Black Wind Mountain,-1.210544669665353,0.5270737744455829,3277,15,48
+821577,紫芝,Translation Pending,Medicinal Ingredient,<p>[获得方式]:乌鸦怪旁采集</p>,Translation Pending,Black Wind Mountain,-1.173637860191974,0.4713559729272845,3277,15,48
+821578,龙胆×2,Translation Pending,Medicinal Ingredient,<p>[获得方式]:采集药草</p>,Translation Pending,Black Wind Mountain,-1.2463579091184442,0.3935572693132059,3277,15,48
+821591,龙胆,Translation Pending,Medicinal Ingredient,<p>[获得方式]采集</p>,Translation Pending,Black Wind Mountain,-1.189675984144003,0.6006754586995982,3277,15,48
+821592,老山参,Translation Pending,Medicinal Ingredient,<p>[获得方式]:</p>,Translation Pending,Black Wind Mountain,-0.20367432397699758,0.3784727660995202,3277,15,48
+821594,龙胆x2,Translation Pending,Medicinal Ingredient,<p>[获得方式]:直接采集</p>,Translation Pending,Black Wind Mountain,-1.1820170408797708,0.5771968276244763,3277,15,48
+821595,紫芝 x1,Translation Pending,Medicinal Ingredient,<p>[获得方式]:河岸边</p>,Translation Pending,Black Wind Mountain,-1.209858289260353,0.4310853507563195,3277,15,48
+821596,碧藕,Translation Pending,Medicinal Ingredient,<p>[获得方式]:采集</p>,Translation Pending,Black Wind Mountain,-0.3792479358625087,0.6191172391631596,3277,15,48
+821613,老山参×2,Translation Pending,Medicinal Ingredient,<p>[获得方式]:采集</p>,Translation Pending,Black Wind Mountain,-1.0997946355162753,0.6140853220673961,3277,15,48
+821614,紫芝×2,Translation Pending,Medicinal Ingredient,<p>[获得方式]:采集获得</p>,Translation Pending,Black Wind Mountain,-1.014222132423555,0.6578161063084735,3277,15,48
+821615,碧藕×2,Translation Pending,Medicinal Ingredient,<p>[获得方式]:池塘里采集</p>,Translation Pending,Black Wind Mountain,-0.9871715188600945,0.8010905112465991,3277,15,48
+821620,葛蕈,Translation Pending,Medicinal Ingredient,<p>[获得方式]:采集</p>,Translation Pending,Black Wind Mountain,-0.6193160296436133,0.7723278595925365,3277,15,48
+821622,紫芝,Translation Pending,Medicinal Ingredient,<p>[获得方式]:</p>,Translation Pending,Black Wind Mountain,-0.420511926672134,0.6488030881154003,3277,15,48
+821623,老山参,Translation Pending,Medicinal Ingredient,<p>在路中间柱子下</p>,Translation Pending,Black Wind Mountain,-1.2994206707325588,0.5969833067246526,3277,15,48
+821630,龙胆×2,Translation Pending,Medicinal Ingredient,<p>[获得方式]:采集</p>,Translation Pending,Black Wind Mountain,-0.9642812472714013,0.6301672398643205,3277,15,48
+821679,老山参,Translation Pending,Medicinal Ingredient,"<p><span style=""font-family: var(--van-base-font);"">[获得方式]:</span><br></p>",Translation Pending,Black Wind Mountain,-0.3731002142808677,0.6356967417464716,3277,15,48
+821680,葛蕈×2,Translation Pending,Medicinal Ingredient,<p>[获得方式]:采集</p>,Translation Pending,Black Wind Mountain,-0.7505582079585622,1.1160798918252226,3277,15,48
+821713,千年人参,Translation Pending,Medicinal Ingredient,<p>[获得方式]:地上有个人参，拿起来有个人参怪，打完会掉千年人参</p>,Translation Pending,Black Wind Mountain,-1.107619431746798,0.6575040979623594,3277,15,48
+821714,龙胆×2,Translation Pending,Medicinal Ingredient,<p>[获得方式]:河流拐角处的一棵松树旁</p>,Translation Pending,Black Wind Mountain,-1.2154126313724873,0.444539777079342,3277,15,48
+821483,玲珑内丹(蛇巡司掉落),Translation Pending,Rare Ingredient,打蛇巡司（非骷髅蛇怪）概率获得,Translation Pending,Black Wind Mountain,-0.9445329074697213,1.07319042897376,3306,16,48
+821616,小活师,Translation Pending,Rare Ingredient,蛤蟆怪【波里个浪】掉落,Translation Pending,Black Wind Mountain,-1.0566737558160355,1.0904341972626383,3306,16,48
+821617,玲珑内丹,Translation Pending,Rare Ingredient,灵虚子掉落,Translation Pending,Black Wind Mountain,-0.9619108035786894,0.6526982773439158,3306,16,48
+821618,铁中血/棉纱,Translation Pending,Rare Ingredient,此地鸦香客概率掉落一个,Translation Pending,Black Wind Mountain,-0.8642712034789497,0.9536774093228928,3306,16,48
+821619,铁中血,Translation Pending,Rare Ingredient,击杀广谋后掉落，概率掉落,Translation Pending,Black Wind Mountain,-0.5878576254184225,1.0550050621629623,3306,16,48
+821662,玉垂牙,Translation Pending,Rare Ingredient,白衣秀士掉落，兵器升级专用材料,Translation Pending,Black Wind Mountain,-0.5251761209944164,0.7501071063042417,3306,16,48
+821462,关卡起始点,Translation Pending,Tips and Tricks,故事从这里开始...,Translation Pending,Black Wind Mountain,-1.1365643157734269,0.347493531966947,3283,17,48
+821588,弓箭手注意,Translation Pending,Tips and Tricks,<p>多个弓箭手，注意躲避，新获得的技能可以完美适用。</p><div>ps:有的一个打不到的，用立棍法蓄力也可以打到</div><div>没学立棍的，先打其他小怪留两格棍势，用劈棍变招也能打到。</div><div>同时从右边山石上可以跳上小怪所在的平台，不过比较难跳，要先向右再向左边最高的石头上跳。</div>,Translation Pending,Black Wind Mountain,-0.29852095731868644,0.553533504512103,3283,17,48
+821682,APP端右上角可切换其他章地图,Translation Pending,Tips and Tricks,第三章地图将在8.22上线~,Translation Pending,Black Wind Mountain,-0.7775990726147768,0.48985727020604486,3283,17,48
+821467,第一口大钟,Translation Pending,Secret Location,共三口钟，全部敲响后可进入隐藏地区“旧观音禅院”,Translation Pending,Black Wind Mountain,-1.0729337443318343,0.749058106189409,3284,18,48
+821468,赤髯龙隐藏门,Translation Pending,Secret Location,<p>在第二回-黑风站获取龙鳞后，回到此处与瀑布互动</p>,Translation Pending,Black Wind Mountain,-1.1226407858039238,0.6676467991426591,3284,18,48
+821476,隐藏关·旧观音禅院,Translation Pending,Secret Location,需要敲响第一回三个大钟后传送，获得对黑熊精的法宝,Translation Pending,Black Wind Mountain,-0.8962752361563275,0.5945403460790715,3284,18,48
+821485,第二口大钟,Translation Pending,Secret Location,,Translation Pending,Black Wind Mountain,-0.5291115538180406,1.0684879780219632,3284,18,48
+821490,第三口大钟,Translation Pending,Secret Location,,Translation Pending,Black Wind Mountain,-0.4074129468333467,0.733414214395907,3284,18,48
+821511,沙门村-不济谷,Translation Pending,Shrine,<p>[位置描述]<br></p>,Translation Pending,Yellow Wind Sage,-0.8489814892195113,0.9310137019917732,3286,0,49
+821516,卧虎寺-寺门,Translation Pending,Shrine,<p>[位置描述]<br></p>,Translation Pending,Yellow Wind Sage,-0.48540802599720223,0.9133885095156842,3286,0,49
+821521,黄风阵：定风桥,Translation Pending,Shrine,<p>[位置描述]<br></p>,Translation Pending,Yellow Wind Sage,-0.26573334067569476,1.0134981781222194,3286,0,49
+821527,黄风阵：定风庄,Translation Pending,Shrine,位置：在出了庄园，爬上山后遇到的第一个桥前面<div>一条小路上山</div>,Translation Pending,Yellow Wind Sage,-0.23107574921004925,0.8254749424856982,3286,0,49
+821528,挟魂崖：枕石坪,Translation Pending,Shrine,在大石头后面,Translation Pending,Yellow Wind Sage,-0.14800631838221534,0.7549393571098477,3286,0,49
+821529,挟魂崖：碎石台,Translation Pending,Shrine,<p>地图画反了，下来往左看是碎石台<br></p>,Translation Pending,Yellow Wind Sage,-0.26658766004860013,0.7914995313246038,3286,0,49
+821530,挟魂崖-藏风山凹,Translation Pending,Shrine,<p>[位置描述]<br></p><p>前面有个佛头，注意收集佛目珠</p>,Translation Pending,Yellow Wind Sage,-0.4301057208561758,0.6776285395620505,3286,0,49
+821540,卧虎寺-地窖,Translation Pending,Shrine,<p>[位置描述]<br></p>,Translation Pending,Yellow Wind Sage,-0.3389866463507758,0.89943623273561,3286,0,49
+821582,沙门村-村口,Translation Pending,Shrine,<p>解锁新披挂套装-乌金 解锁武器升级路线</p>,Translation Pending,Yellow Wind Sage,-1.0408670579194848,0.5732552491620879,3286,0,49
+821609,黄风阵：镇风门,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货<br></p>,Translation Pending,Yellow Wind Sage,-0.4160137414234555,0.8203394330564606,3286,0,49
+821686,井底,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货<br></p><p>解锁步骤：</p><p>1.击败虎伥，获得旧拨浪鼓。</p><p>2.坐定风庄土地庙，往后走，过去石门，到左手触发对话。</p><p>3.去双鼠boss战位置，解锁石门，往下走，看到桥往右去，触发对话。</p><p>4.回到标记点，触发对话。即可解锁。</p>,Translation Pending,Yellow Wind Sage,-1.3607514011088142,0.6963716305426715,3286,0,49
+821684,隐·斯哈里国-沙门界,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货<br></p>,Translation Pending,Yellow Wind Sage,-0.14836614860340092,0.8859468367946874,3286,0,49
+821667,隐·斯哈哩国-沙门关,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货<br></p>,Translation Pending,Yellow Wind Sage,-0.16059088843823588,0.8366969547872145,3286,0,49
+821598,卧虎寺塑像底,Translation Pending,Meditation Spot,<p>[地点描述]:大门楼梯走上来第三层左边<br></p>,Translation Pending,Yellow Wind Sage,-0.4707244283405885,0.9372124761396918,3287,1,49
+821631,黄风阵佛窟前,Translation Pending,Meditation Spot,<p>[地点描述]:<br></p>,Translation Pending,Yellow Wind Sage,-0.49392876996864743,0.8547560262557568,3287,1,49
+821643,枕石平枯松下打坐点,Translation Pending,Meditation Spot,"<p style=""text-shadow: rgb(177, 177, 181) 0px 0px 0px !important;"">猪妖左手边悬崖处<br></p>",Translation Pending,Yellow Wind Sage,-0.18900904412370778,0.829815919311315,3287,1,49
+821646,碎石台谷壑处打坐处,Translation Pending,Meditation Spot,<p>[地点描述]:沿着图片位置直走。<br></p>,Translation Pending,Yellow Wind Sage,-0.27718581868589354,0.7680769136844958,3287,1,49
+821661,沙门村佛亭前,Translation Pending,Meditation Spot,浪里个波位置，前面崖上。,Translation Pending,Yellow Wind Sage,-0.947593266510097,0.5400009507196302,3287,1,49
+821675,沙门界石岩上,Translation Pending,Meditation Spot,<p>打完老虎左边沿边界走<br></p><p>从黄金箱子的位置看过去</p>,Translation Pending,Yellow Wind Sage,-0.1700901767264611,0.90949842814112,3287,1,49
+821522,碎金片,Translation Pending,Chest,<p>[奖励物品]:碎金片*3，蝉丝*3<br></p>,Translation Pending,Yellow Wind Sage,-0.19773879521886784,0.9021820241394352,3288,2,49
+821524,宝箱,Translation Pending,Chest,<p>打碎木栅栏后，正前方就是棺材宝箱</p><p>进去后小心左边屋檐下有一个吐痰怪，房子里有干尸</p><p>[奖励物品]:</p><p>妖核x3&nbsp;<br></p><p>或 蚕丝×3</p>,Translation Pending,Yellow Wind Sage,-0.31205929472369576,0.9275833407719034,3288,2,49
+821526,碎金片,Translation Pending,Chest,<p>[奖励物品]:<br></p><p>碎金片x3</p><p>妖核x2</p>,Translation Pending,Yellow Wind Sage,-0.23720425689819535,0.8477079681019859,3288,2,49
+821544,宝箱,Translation Pending,Chest,<p>[奖励物品]:一个小金片，三个碎金片<br></p>,Translation Pending,Yellow Wind Sage,-0.2711859757774562,0.6054498528560828,3288,2,49
+821552,宝箱,Translation Pending,Chest,<p>[奖励物品]:2个蚕丝（棺材宝箱，图中的位置，地图有误，不在地图这里）<br></p>,Translation Pending,Yellow Wind Sage,-0.5512241599307401,0.7914803457920954,3288,2,49
+821599,宝箱,Translation Pending,Chest,<p>金碎片×3 蚕丝×3 妖核×2</p>,Translation Pending,Yellow Wind Sage,-1.1452925893130441,0.6760177591733054,3288,2,49
+821605,宝箱,Translation Pending,Chest,<p>[奖励物品]:小金片*2<br></p><p>碎金片*2</p>,Translation Pending,Yellow Wind Sage,-0.9986683554187152,0.7137908912809081,3288,2,49
+821611,藏龙洞,Translation Pending,Chest,<p>[奖励物品]:镇雷骨材料和一个珍玩佩<br></p>,Translation Pending,Yellow Wind Sage,-0.04961053632504786,0.8008168789166206,3288,2,49
+821612,宝箱,Translation Pending,Chest,<p>[奖励物品]:蚕丝X4或妖核/铁中血+换金道具<br></p><p>在上第一个台阶右边</p>,Translation Pending,Yellow Wind Sage,-0.4469917702519126,0.9319807751707287,3288,2,49
+821642,铁中血,Translation Pending,Chest,<p>[奖励物品]:</p><p>铁中血、</p><p>妖核*3 或 蚕丝×3</p>,Translation Pending,Yellow Wind Sage,-1.2040625754265477,1.062259280971574,3288,2,49
+821673,宝箱,Translation Pending,Chest,<p>[奖励物品]:碎金块，妖核<br></p>,Translation Pending,Yellow Wind Sage,-0.38264518428258043,0.7067540830840642,3288,2,49
+821681,宝箱,Translation Pending,Chest,<p>过桥后左边第一个房子里</p><p>[奖励物品]:小金片X1 碎金片X3<br></p>,Translation Pending,Yellow Wind Sage,-0.24351912509192175,0.9780364125869738,3288,2,49
+821685,虚空结+金稳兽,Translation Pending,Chest,<p>虚空结，金稳兽<br></p><p>过了虎先锋以后，一进入黄金国的左手边</p>,Translation Pending,Yellow Wind Sage,-0.17632207103019937,0.8900056553148801,3288,2,49
+821693,玲珑内丹,Translation Pending,Chest,<p>[奖励物品]:沿着右边一直走，在大石头后面有个棺材，打开就是<br></p>,Translation Pending,Yellow Wind Sage,-0.1337325288019997,0.8939712583970021,3288,2,49
+821702,五鬼葫芦,Translation Pending,Chest,回血葫芦，井下打败boss，洞穴左前方棺材中,Translation Pending,Yellow Wind Sage,-1.3309624122198613,0.7163169266457885,3288,2,49
+821703,玲珑内丹,Translation Pending,Chest,<p>[奖励物品]:<br></p>,Translation Pending,Yellow Wind Sage,-0.29189122847145654,0.5509396676100806,3288,2,49
+821704,材料宝箱,Translation Pending,Chest,<p>[奖励物品]:碎金片或者妖核<br></p>,Translation Pending,Yellow Wind Sage,-0.23254014773556264,0.819970769774713,3288,2,49
+821719,棺材宝箱,Translation Pending,Chest,<p>[奖励物品]随机<br></p>,Translation Pending,Yellow Wind Sage,-0.2035841384555681,0.7041061540153919,3288,2,49
+821711,宝箱,Translation Pending,Chest,<p>狸侍长出门回头有个宝箱</p><p>[奖励物品]:蚕丝*2或者妖核<br></p>,Translation Pending,Yellow Wind Sage,-0.3539707077889318,0.9711116106944928,3288,2,49
+821700,宝箱,Translation Pending,Chest,<p>[奖励物品]:铁中血 蚕丝*3<br></p><p>需要滑动途中跳起来到达</p>,Translation Pending,Yellow Wind Sage,-0.33898656230562096,0.800243184787476,3288,2,49
+821604,九转金丹,Translation Pending,Pill,<p>[注意事项]:有两个怪，打完之后再最里面<br></p>,Translation Pending,Yellow Wind Sage,-0.48384490670397895,0.9800977328804237,3289,3,49
+821637,碧藕金丹,Translation Pending,Pill,<p>[用途]:大幅增加生命上限<br></p><p>[注意]：箱子边有老6，别被吓到。在地窖内，不在地上</p>,Translation Pending,Yellow Wind Sage,-0.42561447907391425,0.9453372402297191,3289,3,49
+821650,太乙紫金丹,Translation Pending,Pill,<p>[注意事项]:鼠司空旁边小径<br></p>,Translation Pending,Yellow Wind Sage,-0.2817778504621913,0.7850228236604977,3289,3,49
+821520,铜丸,Translation Pending,Vessel/Drink/Soak,饮酒后一段时间内，下次[铜头铁臂]不消耗法力,Translation Pending,Yellow Wind Sage,-0.40600315622640437,1.036239432714268,3290,4,49
+821580,羔儿酿,Translation Pending,Vessel/Drink/Soak,<p>[注意事项]:<br></p><p>和椰子酒不共享强化等级，效果有所不同</p><p>效果：立即回复2成生命，随后回复2.5成生命</p>,Translation Pending,Yellow Wind Sage,-0.8499808818635017,0.34127467217541607,3290,4,49
+821585,梭罗琼芽,Translation Pending,Vessel/Drink/Soak,"<p>[注意事项]:泡酒物-上品<br></p><p>作用：饮酒后一段时间增加少许伤害减免,</p><p>正门不好进入可以先从这里进入</p>",Translation Pending,Yellow Wind Sage,-0.9082575828825554,0.7710247725255357,3290,4,49
+821665,虎舍利,Translation Pending,Vessel/Drink/Soak,"<p>[注意事项]:位于滑下坡时路径上方阁楼，可使用跳跃调整滑坡时位置，跳跃+重击或者跳跃+2技能聚形散气 都<span style=""font-family: var(--van-base-font);"">能上去</span></p>",Translation Pending,Yellow Wind Sage,-0.34683829246989717,0.9387077910774622,3290,4,49
+821728,青山骨,Translation Pending,Vessel/Drink/Soak,<p>青山骨不是固定获得，是采药材时随机掉落！<br></p><p>青山骨不是固定获得，是采药材时随机掉落！<br></p><p>青山骨不是固定获得，是采药材时随机掉落！<br></p><p>这个位置只是说有这个道具，不一定是在这采集能获得！</p><p>在第二章采集任何药材都有可能掉落，效果是提升少许生命上限</p>,Translation Pending,Yellow Wind Sage,-0.9937832953653754,1.0247620966106012,3290,4,49
+821656,铁骨银参(概率),Translation Pending,Vessel/Drink/Soak,<p>[注意事项]:采集野山参有概率掉落<br></p>,Translation Pending,Yellow Wind Sage,-0.2717829518428232,0.8449227168314906,3290,4,49
+821556,[丹方]避凶药,Translation Pending,Formula,<p>[注意事项]:<br></p><p>击杀大青蛙“浪里个波”后获得。</p>,Translation Pending,Yellow Wind Sage,-0.9670859259825022,0.49863535386859326,3291,5,49
+821514,飞龙鳞片,Translation Pending,Key Item,<p>[获取方式]:<br>使用幽魂精魄撞开附近的佛教壁画</p><p>[用途]:<br>回到第一章瀑布处打赤髯龙</p>,Translation Pending,Yellow Wind Sage,-0.737965420290351,0.9498806797036536,3293,6,49
+821533,佛目珠,Translation Pending,Key Item,<p>[获取方式]:<br>在土地庙左边的山石后方，与佛像互动获得</p><p>[用途]:</p><p>解锁妖王：石敢当，和另一个妖王：石先锋在同一个场地，双方会领地冲突。</p>,Translation Pending,Yellow Wind Sage,-0.19246559294489884,0.7744427214431227,3293,6,49
+821542,佛目珠,Translation Pending,Key Item,<p>[获取方式]:<br>与佛像互动获得</p><p>[用途]:</p><p>解锁妖王：石敢当，和另一个妖王：石先锋在同一个场地，双方会领地冲突。</p>,Translation Pending,Yellow Wind Sage,-0.48360992329259034,0.673077787869488,3293,6,49
+821545,佛目珠,Translation Pending,Key Item,"<p><span style=""font-family: var(--van-base-font);"">[获取方式]:</span><br></p><p><span style=""font-family: var(--van-base-font);"">在脚手架上，有一个盾兵和两个远程看守，</span>与佛像互动获得</p><p>[用途]:</p><p>解锁妖王：石敢当，和另一个妖王：石先锋在同一个场地，双方会领地冲突。</p>",Translation Pending,Yellow Wind Sage,-0.23085839940884512,0.6201135873507582,3293,6,49
+821547,佛目珠,Translation Pending,Key Item,<p>[获取方式]:<br>与佛像互动获得</p><p>[用途]:</p><p>解锁妖王：石敢当，和另一个妖王：石先锋在同一个场地，双方会领地冲突。</p>,Translation Pending,Yellow Wind Sage,-0.21086209403520684,0.6776304176905228,3293,6,49
+821548,佛目珠,Translation Pending,Key Item,"<p>[获取方式]:<br>雕像右边上去，与佛像互动获得</p><p>[用途]:</p><p><span style=""font-family: var(--van-base-font);"">解锁妖王：石敢当，和另一个妖王：石先锋在同一个场地，双方会领地冲突。</span><br></p><br>",Translation Pending,Yellow Wind Sage,-0.39053603693938044,0.784121383645612,3293,6,49
+821550,佛目珠,Translation Pending,Key Item,<p>[获取方式]:<br>在石母左侧山洞外地面上，与佛像互动获得</p><p>[用途]:</p><p>解锁妖王：石敢当，和另一个妖王：石先锋在同一个场地，双方会领地冲突。</p>,Translation Pending,Yellow Wind Sage,-0.23706143766452215,0.7626360983167189,3293,6,49
+821694,旧拨浪鼓,Translation Pending,Key Item,<p>[获取方式]:<br>击杀虎仗后掉落</p><p>[用途]:</p><p>完成相关支线必备物品</p>,Translation Pending,Yellow Wind Sage,-0.23829286768986435,0.8096728068123156,3293,6,49
+821695,一块血肉,Translation Pending,Key Item,<p>[获取方式]:<br></p><p>对战沙国王父子时，先击杀沙国王，后击杀暴怒的沙二郎，即可获得。（若击杀顺序相反，则不获得）</p><p>[用途]:</p><p>用于触发后面沙大郎的对战（若先击杀沙二郎，后面沙大郎的对战会由逃走的沙国王自动触发）</p>,Translation Pending,Yellow Wind Sage,-0.8050995831955561,0.8240895529495731,3293,6,49
+821707,石之厉,Translation Pending,Key Item,<p>[获取方式]:<br>击败头目石先锋获得</p><p>[用途]:</p><p>开启部分关卡</p>,Translation Pending,Yellow Wind Sage,-0.2422386410669617,0.7896788860549293,3293,6,49
+821670,醒酒石/登仙散,Translation Pending,Key Item,<p>[获取方式]:击碎发光陶罐，如果之前在石中人买了醒酒石，这里会变成登仙散（一定时间内所有动作不消耗气力）<br></p><p>[用途]:</p>,Translation Pending,Yellow Wind Sage,-0.20153997413211755,0.9356716661703501,3293,6,49
+821653,毫毛·身外身法,Translation Pending,Key Item,<p>[获取方式]:到达该位置进入过程动画<br><br></p><p>[用途]:分身奇数，围殴必备</p><p><br></p><p>[备注]:如果是先走的地窖，会在地窖处获得</p>,Translation Pending,Yellow Wind Sage,-0.40206609341458943,0.8165768510998959,3293,6,49
+821676,琉璃舍利瓶,Translation Pending,Curio,<p>[获取方式]:桌子上的小箱子<br></p><p>效果：闪身时恢复体力</p>,Translation Pending,Yellow Wind Sage,-0.22343285299336912,0.8024546670399388,3294,7,49
+821608,定风珠,Translation Pending,Vessel,<p>[获取方式]:<br></p><p>击败boss后获取</p><p>对黄风大圣宝具，同时开法宝会对敌人造成硬直，很适合用于起手或者连招中穿插</p>,Translation Pending,Yellow Wind Sage,-0.13434687049354466,0.9217397882385683,3295,8,49
+821597,疾蝠精魄,Translation Pending,Spirit,<p>【获取奖励】铁中血</p><p>[获取方式]:蓝色小精英怪<br></p><p><br></p>,Translation Pending,Yellow Wind Sage,-0.5338056274961787,0.9786223387077655,3296,9,49
+821603,鼠弩手精魄,Translation Pending,Spirit,<p>[获取方式]:反向推开门后四只鼠弩手会下来，发蓝光那只掉精魄<br></p>,Translation Pending,Yellow Wind Sage,-1.0445563606089365,0.6985235869538684,3296,9,49
+821624,骨悚然精魂,Translation Pending,Spirit,<p>[奖励]:骨悚然精魂</p><p><br></p><p>[攻略要点]:注意，这货比其他的骨悚然多了个投技，上来不要直接铜头铁臂</p>,Translation Pending,Yellow Wind Sage,-0.07295146596342761,0.810093716763447,3296,9,49
+821663,鼠司空精魄,Translation Pending,Spirit,<p>开始会放大招，变出三个耗子分身发激光，生命上限低就是一下秒你！打斗过程中还会再放一次</p><p>[获取方式]:击杀鼠司空<br></p>,Translation Pending,Yellow Wind Sage,-0.26989881292490736,0.7796599998570315,3296,9,49
+821669,鼠禁卫,Translation Pending,Spirit,<p>[获取方式]:<br></p>,Translation Pending,Yellow Wind Sage,-0.25632759793393234,0.8539525090015871,3296,9,49
+821688,虎伥精魄,Translation Pending,Spirit,<p>[获取方式]:桥上击败虎伥，桥两侧无空气墙<br></p>,Translation Pending,Yellow Wind Sage,-0.23368238312400536,0.811219071440874,3296,9,49
+821689,沙二郎精魂,Translation Pending,Spirit,<p>[获取方式]:遇到沙国王父子时，先击杀沙国王，后击杀暴怒状态的沙二郎。（如果顺序反了或者同时击杀就不掉落）<br></p>,Translation Pending,Yellow Wind Sage,-0.7818977040729465,0.8450107377656053,3296,9,49
+821729,地狼精魄,Translation Pending,Spirit,<p>[获取方式]:击杀地狼后吸取<br></p>,Translation Pending,Yellow Wind Sage,-1.0788904487160096,0.7891527000423935,3296,9,49
+821666,狸侍长,Translation Pending,Spirit,"<p>[获取方式]:<br></p><p>挺难打，建议要么开分身上去莽，要么一个个勾引过来打，不然很容易被连死。只要干死那个冒蓝火的剩下的几个怪都会跑掉。</p><p>----</p><div data-zone-id=""0"" data-line-index=""0"" data-line=""true"" style=""white-space-collapse: preserve;"">阴间玩意儿，4只双刀侠暴揍路过吗喽分分钟给你削成肉泥</div><div data-zone-id=""0"" data-line-index=""0"" data-line=""true"" style=""white-space-collapse: preserve;"">----</div><div data-zone-id=""0"" data-line-index=""0"" data-line=""true"" style=""white-space-collapse: preserve;"">逆天东西，变身上去干3秒两管血秒没</div><div data-zone-id=""0"" data-line-index=""0"" data-line=""true"" style=""white-space-collapse: preserve;"">﹉﹉</div><div data-zone-id=""0"" data-line-index=""0"" data-line=""true"" style=""white-space-collapse: preserve;"">趁他们发现你的前摇动画时直接变广智，一直突刺蓝色的，然后大头砸一下就死了</div>",Translation Pending,Yellow Wind Sage,-0.38013563698555686,0.9440379981495255,3296,9,49
+821635,石双双精魄,Translation Pending,Spirit,<p>[获取方式]:击杀石双双获得技能<br></p>,Translation Pending,Yellow Wind Sage,-0.22499533796906235,0.7423965966284243,3296,9,49
+821534,黄袍员外(一只猪),Translation Pending,Characters,"<p><span style=""font-family: var(--van-base-font);"">[相关事件]:</span><br></p><p>1.找石中人买解酒的道具，也有地方直接捡</p><p>2.解酒后会跑到虎寺附近（可参考地图点位）</p><p>3.丢失的金片击杀沙大郎掉落</p><p>4.再回到本地点会触发boss战，打赢后会带你去黄金国隐藏关</p><p>[奖励]:一个面具，提高饮酒后攻击力</p>",Translation Pending,Yellow Wind Sage,-0.2031533590044603,0.8265369690373916,3298,10,49
+821541,葫芦仙人,Translation Pending,Characters,"<p>[位置描述]:</p><p><br></p><p>[相关事件]:葫芦仙人在做浮雕，没拿到龙鳞的时候和他对话会被告知这里有个龙被杀了，鳞片藏在某处,如果拿到鳞片但没有打过龙，拿到鳞片且打过龙，这三种的对话有些许不一样。</p><p><br></p><p>[奖励]:</p>",Translation Pending,Yellow Wind Sage,-0.5101400893976233,0.8553335796423198,3298,10,49
+821546,石中人,Translation Pending,Characters,<p>[位置描述]:</p><p>在一条有小水坑的路径尽头</p><p>[相关事件]:</p><p>1.石中人会忽悠你去左边的洞窟打石母</p><p>2.交付石母后，会直接私吞并赶你走，此时可以打他</p><p>3.攻击后进入boss战，打败后回收石母，可获得石头变身</p><p>4.再过来以后，石中人会卖一些强化材料</p><p>5.拨浪鼓剧情结束后来这里有额外对话</p><p>[奖励]:</p>,Translation Pending,Yellow Wind Sage,-0.21839351216789282,0.6560395632335059,3298,10,49
+821601,马哥,Translation Pending,Characters,<p>[相关事件]:</p><p>打完boss旁边是被绑的马哥</p><p>善良的马哥劝你不要投靠他们<br></p><p>对话完还会说自己就能脱身不用玩家管（什么经典葱哥台词）</p><p>没看到马哥的话，去翠竹林后山点找马哥对话，再回来</p><p><br></p><p>[奖励]:无</p>,Translation Pending,Yellow Wind Sage,-1.2725514414336772,0.7873014317246287,3298,10,49
+821648,戌狗,Translation Pending,Characters,<p>[相关事件]:</p><p>打败浪里个波交付物品</p><p>[奖励]:</p><p>在土地庙解锁【炼丹】功能</p><p>避凶药×2</p>,Translation Pending,Yellow Wind Sage,-0.9920529101614477,0.5416765762196007,3298,10,49
+821652,鼠国国民,Translation Pending,Characters,<p>[相关事件]:<br></p><p>会触发对话，击杀双头怪对话会更新</p><p>为鼠国国民，提到三王子去往西天佛国，两个声音互相对话疑似也是双头鼠或两人躲藏在一起<br>也就是说，这其实是提示了成就24需要到小西天，前两章最高到23成就。</p>,Translation Pending,Yellow Wind Sage,-1.2489416842003038,0.9344829591154138,3298,10,49
+821539,戌狗-第二步,Translation Pending,Characters,"<p><span style=""font-family: var(--van-base-font);"">[相关事件]:</span><br></p><p>在这里可以用玲珑内丹进行炼丹，可永久增加属性</p><p>同时也会卖各种丹方</p><p>[奖励]:对话-招呼-玲珑内丹</p><p>另外准备在这里准备个还魂丹后面小西天打辰龙他要还魂丹</p>",Translation Pending,Yellow Wind Sage,-0.3883723314594363,0.9103675781633314,3298,10,49
+821659,黄袍员外 第二步,Translation Pending,Characters,<p>[相关事件]:在石中人那里买醒酒石交给员外他就会跑这来<br></p><p>在上去的第三个台阶，不在寺庙里面</p><p>要碧藕</p><p>往右边看，一头老猪在那里</p><p><br></p><p>[奖励]:</p>,Translation Pending,Yellow Wind Sage,-0.44420528908062806,0.9394338559666551,3298,10,49
+821835,黄风怪[要先和他对话],Translation Pending,Characters,<p>[相关事件]:<br></p><p>召唤BOSS</p><p>[奖励]:</p>,Translation Pending,Yellow Wind Sage,-0.14139064937089074,0.9017425285681355,3298,10,49
+821518,虎先锋,Translation Pending,Yaoguai Chief,<p>[奖励]:法术：铜头铁臂</p><p><br></p><p>[攻略要点]:刀反而比较简单，拳形态boss一定不能慌张，一味连滚只会全吃，摸清快慢刀就过了</p><p>变石头时不打就不会触发弹反</p>,Translation Pending,Yellow Wind Sage,-0.45804911986138563,0.9403745312692848,3305,11,49
+821538,黄风大圣,Translation Pending,Yaoguai Chief,<p>[奖励]:开无敌打败黄风大圣可以直接进入第三回</p><p><br></p><p>[攻略要点]:</p><p>二阶段的龙卷风可以开定风珠直接消掉，不然非常难打</p>,Translation Pending,Yellow Wind Sage,-0.30995841922597833,0.839501733034183,3305,11,49
+821621,小骊龙,Translation Pending,Yaoguai Chief,<p>[奖励]:内丹，宝箱</p><p><br></p><p>[攻略要点]:</p><p>砸地的时候可以站在石头上躲避。Boss的攻击会把地上的石头敲碎，务必小心走位留一两块石头来躲技能。</p><p>可以做了石中人的任务后再来，变身石头人+定身术可以破2次BOSS大招。</p>,Translation Pending,Yellow Wind Sage,-0.05404029159316792,0.8046848706860175,3305,11,49
+821708,石敢当,Translation Pending,Yaoguai Chief,"<p>[奖励]:</p><p>物品【受蕴】、玲珑内丹</p><p>【出云棍】铸造材料</p><p><br></p><p>[攻略要点]:</p><p>隐藏BOSS，需要上交6个佛目珠</p><p>会和石先锋内战</p><p>内战都没打过的话可以覆盖存档再打<span style=""font-family: var(--van-base-font);"">blackmythwukong&gt;b1&gt;saved&gt;savegamesbackup，这里面有很多以前的存档，自己替换到savegames里面那个文档的里面</span></p><p><br></p>",Translation Pending,Yellow Wind Sage,-0.21649480779200303,0.7768081721371516,3305,11,49
+821536,蝜蝂,Translation Pending,Yaoguai Chief,"<p>[奖励]:</p><p>击败后获得定风珠</p><p>昆蚑佛笠、昆蚑<span style=""font-family: var(--van-base-font);"">刺手、</span>昆蚑刺足图纸（虽然昆蚑为四件套但此处只有三个图纸为正常现象）</p><p><span style=""font-family: var(--van-base-font);"">[攻略要点]:</span><br></p><p>比较菜，不贪刀很好打，二阶段还有NPC帮忙打</p>",Translation Pending,Yellow Wind Sage,-0.14954974430855827,0.9240865923702017,3305,11,49
+821531,石先锋,Translation Pending,Yaoguai Chief,<p>[奖励]:</p><p>石之厉</p><p>[攻略要点]:</p><p>可以跟石敢当互动，触发互殴，石敢当比较强一些</p><p>可以贴边绕路到石敢当那里，避免和石先锋对战。要不上来就对战石先锋，打输了是回定风庄存档点</p>,Translation Pending,Yellow Wind Sage,-0.23861841451238774,0.7772103825437569,3305,11,49
+821510,浪里个波,Translation Pending,Yaoguai King,<p>[奖励]:小活师 避凶药（丹方）</p><p><br></p><p>[攻略要点]:建议穿在水里回血那套</p>,Translation Pending,Yellow Wind Sage,-0.9678331930303727,0.507615915881658,3304,12,49
+821512,沙大郎,Translation Pending,Yaoguai King,<p>[奖励]:沙罗金片</p><p><br></p><p>[攻略要点]:引导沙大郎撞击旁边红色的佛像墙壁，可以进入一个隐藏房间。<br>（使用第一回获得的大头【幽魂】也能砸开）</p>,Translation Pending,Yellow Wind Sage,-0.7791805950606374,0.9698404994122996,3304,12,49
+821515,沙国王父子,Translation Pending,Yaoguai King,<p>[奖励]:沙老二精魂（需先击杀沙国王）</p><p>打错了不要担心，根目录里blankmythwukong&gt;b1&gt;saved&gt;savegamesbackup，这里面有很多以前的存档，自己替换到savegames里面那个文档的里面</p><p><br></p><p>[攻略要点]:</p><p>①先打死沙国王的话，沙老二会暴走；先打死沙老二会直接过关，沙国王会逃到沙大郎处。</p><p>②【注意】先击杀沙国王，后击杀暴怒状态下的沙老二，才能获得沙老二精魂！</p><p>③击杀顺序不同，会导致弹琴的无首(本关开头那位)出来弹唱的歌词不同、以及后面遇到沙大郎时的cg不同。</p>,Translation Pending,Yellow Wind Sage,-0.7986076080521514,0.8577758506264246,3304,12,49
+821537,“虎先锋”,Translation Pending,Yaoguai King,<p>[奖励]:</p><p><br></p><p>[攻略要点]:</p><p>现役虎先锋的老爹 舍利子不在这</p><p>建议使用戳棍的蓄力重击打断它</p>,Translation Pending,Yellow Wind Sage,-0.15659519287422086,0.8641849690883845,3304,12,49
+821549,石母,Translation Pending,Yaoguai King,<p>[位置]：<br></p><p>往枕石坪左侧山洞走两步，刚进山洞就好，随后往右侧台阶跳上去一直往里走，石母在山洞尽头</p><p>[奖励]:</p><p>击败后去找石中人，可获得石头变身</p><p>[攻略要点]:</p><p>去往石母的路上会有一只精英怪石双双跳出来，另外石母不会主动攻击，但会召唤小怪，建议先清理完小怪再打</p>,Translation Pending,Yellow Wind Sage,-0.2602832702019384,0.7600237520347832,3304,12,49
+821602,地狼,Translation Pending,Yaoguai King,<p>[奖励]:地狼精魄</p><p>铁中血</p><p><br></p><p>[攻略要点]:倒地时会攻击，注意闪避</p>,Translation Pending,Yellow Wind Sage,-1.1071462680590116,0.761207939604617,3304,12,49
+821632,百目真人,Translation Pending,Yaoguai King,<p>[奖励]:</p><p><br></p><p>[攻略要点]:dps够高可以直接秒掉 跳过回血机制</p>,Translation Pending,Yellow Wind Sage,-0.49548548697535466,0.7684232349789824,3304,12,49
+821674,疯虎,Translation Pending,Yaoguai King,<p>介绍：虎先锋的弟弟</p><p>[奖励]:旁边一个箱子出新葫芦</p><p><br></p><p>[攻略要点]:比虎先锋好打，比虎先锋他爸难打</p>,Translation Pending,Yellow Wind Sage,-1.3129999827765744,0.6992982383629851,3304,12,49
+821692,虎伥,Translation Pending,Yaoguai King,<p>[奖励]:</p><p>虎伥精魄</p><p>[攻略要点]:注意不要掉下桥，闪身磨死即可</p><p>多用铜头铁骨</p>,Translation Pending,Yellow Wind Sage,-0.23456802875489302,0.8138658478276426,3304,12,49
+821655,落伽香藤,Translation Pending,Luojia Fragrant Vine,<p>第一次来时在百目真人正前方，在正对一个佛像的左手边</p>,Translation Pending,Yellow Wind Sage,-0.4989229334234153,0.7484004380610827,3299,13,49
+821657,落迦香藤,Translation Pending,Luojia Fragrant Vine,<p>[获得方式]:<br></p><p>在开门右手边树上<br></p>,Translation Pending,Yellow Wind Sage,-0.25267593219359696,0.8314157107357971,3299,13,49
+821553,三冬虫,Translation Pending,Awaken Wine Worm,<p>在发光的罐子里&nbsp; 隔着栅栏可以直接用戳棍蓄力攻击获得</p>,Translation Pending,Yellow Wind Sage,-0.7234346219993029,0.8895146326124177,3300,14,49
+821600,九叶灵芝草,Translation Pending,Medicinal Ingredient,<p>[获得方式]:打死地上钻出的小怪<br></p>,Translation Pending,Yellow Wind Sage,-1.1810209087257704,0.5564685134969665,3301,15,49
+821607,碧藕,Translation Pending,Medicinal Ingredient,<p>[获得方式]:中间池塘，小概率获得酒食嫩玉藕。<br></p>,Translation Pending,Yellow Wind Sage,-1.048507771655295,0.7760675724329218,3301,15,49
+821628,甘草,Translation Pending,Medicinal Ingredient,<p>[获得方式]:<br></p>,Translation Pending,Yellow Wind Sage,-1.2464870391445686,0.9731896319837148,3301,15,49
+821645,老山参,Translation Pending,Medicinal Ingredient,<p>[获得方式]:人参怪击败即可<br></p>,Translation Pending,Yellow Wind Sage,-0.7565167365478942,0.8055506251104987,3301,15,49
+821672,紫芝,Translation Pending,Medicinal Ingredient,<p>[获得方式]:进门前的树上<br></p>,Translation Pending,Yellow Wind Sage,-1.2634091068500481,0.8122037731715182,3301,15,49
+821678,甘草,Translation Pending,Medicinal Ingredient,<p>[注意事项]:在草地 很容易错过<br></p>,Translation Pending,Yellow Wind Sage,-0.9852654148851343,0.3947385924989675,3301,15,49
+821683,甘草,Translation Pending,Medicinal Ingredient,<p>[获得方式]:<br></p>,Translation Pending,Yellow Wind Sage,-0.8886951995175423,0.33370327391847354,3301,15,49
+821690,甘草×2,Translation Pending,Medicinal Ingredient,<p>[获得方式]:采集<br></p>,Translation Pending,Yellow Wind Sage,-0.9014192671774026,0.8951293240505436,3301,15,49
+821691,漱玉花,Translation Pending,Medicinal Ingredient,<p>[获得方式]:采摘<br></p>,Translation Pending,Yellow Wind Sage,-1.1185428362234404,0.7017611421034786,3301,15,49
+821705,漱玉花,Translation Pending,Medicinal Ingredient,<p>[获得方式]:在宝箱后，点击获得<br></p>,Translation Pending,Yellow Wind Sage,-1.238255324016876,1.0428264496206765,3301,15,49
+821718,九叶灵芝草,Translation Pending,Medicinal Ingredient,<p>[获得方式]:打败灵芝精怪<br></p>,Translation Pending,Yellow Wind Sage,-0.46975220715245314,0.7636183160577446,3301,15,49
+821722,紫芝×6，九叶灵芝草×1,Translation Pending,Medicinal Ingredient,<p>如图所示位置有小灵芝精，击败后掉落</p>,Translation Pending,Yellow Wind Sage,-0.24946726036341715,0.8266737342602113,3301,15,49
+821726,碧藕,Translation Pending,Medicinal Ingredient,<p>[获得方式]:采集<br></p>,Translation Pending,Yellow Wind Sage,-0.9549582913576273,0.4895519337934644,3301,15,49
+821730,紫芝,Translation Pending,Medicinal Ingredient,<p>[获得方式]:采集<br></p>,Translation Pending,Yellow Wind Sage,-0.4962945905852507,0.9795657728960805,3301,15,49
+821836,老山参,Translation Pending,Medicinal Ingredient,<p>[获得方式]:采集<br></p>,Translation Pending,Yellow Wind Sage,-0.4495275605389111,0.9090182684144992,3301,15,49
+821523,玲珑内丹,Translation Pending,Tips and Tricks,打死一个盾牌怪后获得<div>盾牌怪掉进旁边坑里会上不来</div>,Translation Pending,Yellow Wind Sage,-0.2552726413750577,0.8820102637685778,3302,17,49
+821583,弓箭手注意,Translation Pending,Tips and Tricks,"此处门梁上面有四个远程怪 从旁边小路绕道<div><span style=""font-family: var(--van-base-font);"">（远程怪打死不会复活）</span></div>",Translation Pending,Yellow Wind Sage,-1.050293019958957,0.6515518363852664,3302,17,49
+821586,第二回 从此开始,Translation Pending,Tips and Tricks,,Translation Pending,Yellow Wind Sage,-0.9490831044386709,0.28943733029598206,3302,17,49
+821587,弓箭手注意,Translation Pending,Tips and Tricks,山上多个弓箭手袭击，用花棍或雾气形态躲避,Translation Pending,Yellow Wind Sage,-0.9412654751281195,0.3438429183345022,3302,17,49
+821606,正门,Translation Pending,Tips and Tricks,化气走到两侧宝箱都不会惊动小怪，两侧绕道进去开门，从右边宝箱后面跳下去往回绕，门只能从里面开,Translation Pending,Yellow Wind Sage,-1.0653635011289566,0.7395747480728829,3302,17,49
+821644,按符,Translation Pending,Tips and Tricks,<p>需要石之厉，虎之锋</p><div>石之厉通过打boss石先锋获得</div><div>虎之锋通过打boss虎先锋获得</div><div>这俩道具后面才会解锁</div>,Translation Pending,Yellow Wind Sage,-0.7504015709091334,0.8554235634823328,3302,17,49
+821664,注意弓箭手和精锐双头鼠,Translation Pending,Tips and Tricks,双头鼠不会复活，建议先打弓箭手，双头鼠会自爆，记得打完走开,Translation Pending,Yellow Wind Sage,-1.07899734898146,0.8893559010163585,3302,17,49
+821701,小灵芝精,Translation Pending,Tips and Tricks,摸蘑菇之后蘑菇精起身会来一刀狠的，记得闪避,Translation Pending,Yellow Wind Sage,-1.1773604259823287,0.5676674108440238,3302,17,49
+821712,推进主线唯一通路,Translation Pending,Tips and Tricks,在一个洞里，往里走，有一条缝。,Translation Pending,Yellow Wind Sage,-0.5695170683540027,0.979126035591861,3302,17,49
+821716,玲珑内丹概率掉落,Translation Pending,Tips and Tricks,<p>杀马得玲珑内丹</p><div><br></div>,Translation Pending,Yellow Wind Sage,-0.7515681288371923,0.6921092127475958,3302,17,49
+821720,有干尸吓人,Translation Pending,Tips and Tricks,,Translation Pending,Yellow Wind Sage,-0.2692783563979617,0.9271062733579072,3302,17,49
+821731,快速获得三冬虫,Translation Pending,Tips and Tricks,使用戳棍可以直接打碎缸获得三冬虫,Translation Pending,Yellow Wind Sage,-0.7384925234763671,0.8994532848545873,3302,17,49
+821732,池塘,Translation Pending,Tips and Tricks,此处未画出低地池塘，有3个小怪3个草药,Translation Pending,Yellow Wind Sage,-0.8509877335244767,0.7569181629773993,3302,17,49
+821777,滑沙路段,Translation Pending,Tips and Tricks,不能停下，直接滑倒底，弓箭手打不到你,Translation Pending,Yellow Wind Sage,-0.3110135896243662,0.788456704952722,3302,17,49
+821671,按符,Translation Pending,Tips and Tricks,需要虎之符、石之厉开门,Translation Pending,Yellow Wind Sage,-0.406897880638752,0.8279688154437679,3302,17,49
+821532,需要6个佛目珠,Translation Pending,Secret Location,召唤石敢当，触发boss内战（如果没打过，石敢当把石先锋杀了，下次则需独自迎战石敢当）,Translation Pending,Yellow Wind Sage,-0.2082487361957419,0.7756015406877452,3303,18,49
+821535,前往黄金之国,Translation Pending,Secret Location,需要先完成黄袍员外支线，之后在黄金国打完boss可获得对黄风法宝“定风珠”,Translation Pending,Yellow Wind Sage,-0.176527631101834,0.8240429167820338,3303,18,49
+821551,拨浪鼓剧情点 2,Translation Pending,Secret Location,传送到镇风门，右转上坡过桥，在桥头左拐进去色彩变暗，使用拨浪鼓触发第二段小孩剧情。,Translation Pending,Yellow Wind Sage,-0.6706696161831189,0.797069268608837,3303,18,49
+821633,拨浪鼓剧情点3,Translation Pending,Secret Location,最后到沙门村，之前马哥被绑的亭子附近的角落里，找到一口井，使用拨浪鼓触发第三段小孩剧情。必须先完成剧情点1和2才能触发。,Translation Pending,Yellow Wind Sage,-1.311801646062662,0.707989133924599,3303,18,49
+821640,需要飞龙鳞片,Translation Pending,Secret Location,获得龙鳞后，前往沙瀑互动即可进入隐藏地点,Translation Pending,Yellow Wind Sage,-0.06085656474976986,0.8087791847778902,3303,18,49
+821525,拨浪鼓剧情点1,Translation Pending,Secret Location,<p>拨浪鼓是打完虎伥（在后面的桥上）掉落，打完虎伥后回来这</p><p>拿到拨浪鼓之后需要返回庭院里触发色彩变暗的剧情</p><p>剧情触发后有小怪</p><p>一二剧情无先后顺序，但是必须完成一二才有三</p>,Translation Pending,Yellow Wind Sage,-0.27037548847121684,0.8555074817796111,3303,18,49
+821513,龙鳞隐藏墙壁,Translation Pending,Secret Location,在和Boss【沙大郎】战斗时，引导沙大朗去撞击有很多小佛像的墙。战斗结束后在裂缝里开宝箱获得【飞龙鳞片】<div><br></div><div>石粼粼变身消失时的后倒、幽魂精魄变身也可打开。亦或是四段棍势的劈棍也可砸开。</div><div>这边翻译看的是石磊磊，是打完石中人后获得的变身，去土地庙那里替换变身以后再过来，变身结束倒在这个墙壁可以撞开</div>,Translation Pending,Yellow Wind Sage,-0.7244143987849441,0.9661396324110143,3303,18,49
+821519,隐藏大门,Translation Pending,Secret Location,击败虎先锋后，在血池后的断头大佛使用“石之厉”，会排干血池，然后有暗道通向黄风大王,Translation Pending,Yellow Wind Sage,-0.44964431859173715,0.9453423577329545,3303,18,49
+821737,雪山径-披霜道,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p><p>解锁铸造【赭黄套装】</p>,Translation Pending,The New West - Snow-Veiled Trail,-1.034103729990278,0.6432530503579272,3308,0,50
+821745,雪山径-照鉴湖,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p>,Translation Pending,The New West - Snow-Veiled Trail,-0.40547520998143227,0.5673632324310773,3308,0,50
+821748,照鉴湖雪树下打坐处,Translation Pending,Meditation Spot,<p>[地点描述]:坐上去欣赏风景可得一个技能点</p>,Translation Pending,The New West - Snow-Veiled Trail,-0.49227778721342474,0.6175865420878779,3309,1,50
+821747,玲珑内丹,Translation Pending,Chest,<p>[奖励物品]:玲珑内丹</p><p>前面有很多僵尸守护</p>,Translation Pending,The New West - Snow-Veiled Trail,-0.6096483103561638,0.6014155257391138,3310,2,50
+821891,宝箱,Translation Pending,Chest,<p>[奖励物品]: 铁中血 碎金片3个 小金片2个</p>,Translation Pending,The New West - Snow-Veiled Trail,-1.0171925945219868,1.0562002417155725,3310,2,50
+821743,宝箱,Translation Pending,Chest,<p>[奖励物品]:寒铁叶2个 碎金片3个</p>,Translation Pending,The New West - Snow-Veiled Trail,-0.8827826056615322,1.0670037435858433,3310,2,50
+821735,宝箱,Translation Pending,Chest,<p>[奖励物品]:寒铁叶2个 碎金片3个/碎金片7个&nbsp; 小金片1个</p>,Translation Pending,The New West - Snow-Veiled Trail,-1.158970608920356,0.3851722357169933,3310,2,50
+821740,棺材宝箱,Translation Pending,Chest,<p>[奖励物品]:</p><p>镔铁砂</p>,Translation Pending,The New West - Snow-Veiled Trail,-0.7041198730483131,1.0020903455307746,3310,2,50
+821736,嫩玉藕(概率),Translation Pending,Vessel/Drink/Soak,<p>[注意事项]</p><p>和第二章青山骨一样，仅仅是可能采集到</p>,Translation Pending,The New West - Snow-Veiled Trail,-1.1055262632777385,0.43336787549739597,3312,4,50
+821889,困龙须,Translation Pending,Vessel/Drink/Soak,<p>[注意事项]湖的的右手边。（右边最远的那个树下）</p>,Translation Pending,The New West - Snow-Veiled Trail,-0.32555942566347085,0.6943626601728141,3312,4,50
+821892,摩尼珠(概率掉落),Translation Pending,Curio,<p>[获取方式]:打小怪概率得</p>,Translation Pending,The New West - Snow-Veiled Trail,-0.9986204338412961,0.7545399377628428,3315,7,50
+821741,巡山鬼精魄,Translation Pending,Spirit,<p>[获取方式]:击杀巡山鬼获得</p>,Translation Pending,The New West - Snow-Veiled Trail,-0.9854653819723183,1.0637701994713495,3317,9,50
+821742,小西天土地,Translation Pending,Characters,<p>[相关事件]:<br></p><p>会把你变成蝙蝠送你去湖上</p><p>[奖励]:</p><p>无</p>,Translation Pending,The New West - Snow-Veiled Trail,-0.9409964630997081,1.1478412147255455,3321,10,50
+821738,赤尻马猴,Translation Pending,Yaoguai Chief,<p>[奖励]:</p><p><br></p><p>[攻略要点]:</p><p>打掉大半血会逃跑</p>,Translation Pending,The New West - Snow-Veiled Trail,-0.8279059466395893,0.8917692722768464,3322,11,50
+821733,亢金龙,Translation Pending,Yaoguai King,"<p>[奖励]:</p><p>武器升级材料【银星雾角】</p><p>[攻略要点]:</p><p>BOSS投技伤害很高，秒杀伤害，尽量避免吃到</p><p><span style=""font-family: var(--van-base-font);"">半血后会腾空而起喷激光，</span>BOSS飞天的时候注意躲避闪电，看见前兆直接翻滚，伤害很高</p><p>贴身用法宝【定风珠】可以给他制造一个巨大踉跄，打一套</p><p>扫尾的后尾巴会卡冰里面，这时候可以打尾巴</p>",Translation Pending,The New West - Snow-Veiled Trail,-0.46047132702861404,0.7692143135299574,3323,12,50
+821893,交梨,Translation Pending,Rare Ingredient,<p>[获得方式]:右边岸边走到头</p><p>概率掉交梨种子</p>,Translation Pending,The New West - Snow-Veiled Trail,-0.28688791609033615,0.5960099517693749,3326,16,50
+821734,第三回 起始地点,Translation Pending,Tips and Tricks,故事从此开始……,Translation Pending,The New West - Snow-Veiled Trail,-1.1221909879623126,0.16076290430738993,3324,17,50
+821744,传送后起点,Translation Pending,Tips and Tricks,,Translation Pending,The New West - Snow-Veiled Trail,-0.46449759321336614,0.49945001254620536,3324,17,50
+821749,湖中剧情,Translation Pending,Tips and Tricks,靠近湖中寺庙就会进入剧情，剧情后强制进入和亢金龙的战斗，完成战斗会被强制传送到浮屠界 下层的牢房,Translation Pending,The New West - Snow-Veiled Trail,-0.4654669179180928,0.7217602185141487,3324,17,50
+821890,上楼梯后小心偷袭,Translation Pending,Tips and Tricks,宫崎英高的形状,Translation Pending,The New West - Snow-Veiled Trail,-0.8053111557701982,0.9943277515707507,3324,17,50
+821739,冰封尸体中混有小怪,Translation Pending,Tips and Tricks,"小心偷袭,能用索敌标出敌人<div>身边放置有武器的就是小怪</div>",Translation Pending,The New West - Snow-Veiled Trail,-0.9879940545746138,0.835178895725349,3324,17,50
+821912,一堆伪装怪,Translation Pending,Tips and Tricks,这里有很多伪装怪，锁定可以快速区分谁是怪谁是石头（这怪都可能掉摩尼珠）<div>在怪静止的时候 直接 蓄力中棍&nbsp; 一下一个</div>,Translation Pending,The New West - Snow-Veiled Trail,-0.5857965728038437,0.5779516018035622,3324,17,50
+821754,浮屠界-下层,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p>,Translation Pending,The New West - The Great Pagoda,-1.0930444912379187,0.976289703045552,3327,0,51
+821763,浮屠界-上层,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p>,Translation Pending,The New West - The Great Pagoda,-1.1104877708283993,0.3036165132237443,3327,0,51
+821787,浮屠界-经筒外,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p>,Translation Pending,The New West - The Great Pagoda,-0.6175491720516106,0.2851097787897743,3327,0,51
+821772,浮屠界-轮藏,Translation Pending,Shrine,"<p><span style=""font-family: var(--van-base-font);"">类似篝火，建议每个土地庙都看下商店和铸造有没有新货</span><br></p>",Translation Pending,The New West - The Great Pagoda,-0.18436945473661126,0.4962503627592838,3327,0,51
+821753,宝箱,Translation Pending,Chest,<p>[奖励物品]:寒铁叶×2</p><p>牢房上锁了，之后来解锁</p>,Translation Pending,The New West - The Great Pagoda,-1.1150599648880188,0.9044253412149317,3329,2,51
+821767,玲珑内丹,Translation Pending,Chest,<p>[奖励物品]:玲珑内丹和冰铁砂</p>,Translation Pending,The New West - The Great Pagoda,-0.5041364858681447,1.2121905897978138,3329,2,51
+821895,棺材宝箱,Translation Pending,Chest,<p>[奖励物品]:镔铁砂</p>,Translation Pending,The New West - The Great Pagoda,-0.4364586003286206,0.1397778020155016,3329,2,51
+821888,宝箱,Translation Pending,Chest,<p>[奖励物品]:碎金片*2 寒铁叶*2</p>,Translation Pending,The New West - The Great Pagoda,-0.4713871759737174,0.5819397463215665,3329,2,51
+821919,宝箱,Translation Pending,Chest,<p>[奖励物品]:镔铁沙</p>,Translation Pending,The New West - The Great Pagoda,-1.049773426786203,0.8023756348248838,3329,2,51
+821768,棺材,Translation Pending,Chest,<p>[奖励物品]:镔铁沙</p>,Translation Pending,The New West - The Great Pagoda,-1.1192386135536765,0.43173677217218653,3329,2,51
+821758,棺材,Translation Pending,Chest,<p>[奖励物品]:镔铁砂</p>,Translation Pending,The New West - The Great Pagoda,-0.3427679638671748,1.2508283149656307,3329,2,51
+821756,棺材,Translation Pending,Chest,<p>[奖励物品]:寒铁叶×2</p>,Translation Pending,The New West - The Great Pagoda,-1.015858059675793,1.2223388003523894,3329,2,51
+821765,宝箱,Translation Pending,Chest,<p>[奖励物品]:铁中血&nbsp; 立棍打弓箭手</p>,Translation Pending,The New West - The Great Pagoda,-0.5023276480289951,0.8400036013434828,3329,2,51
+821771,宝箱,Translation Pending,Chest,<p>[奖励物品]:镔铁砂*2</p>,Translation Pending,The New West - The Great Pagoda,-0.6353372362413268,0.34811606967932107,3329,2,51
+821844,玲珑内丹,Translation Pending,Chest,<p>打完上层boss再回来，没解锁开门进不去</p><p>从第二层监牢往下跳，有个可以开的门，开门后有宝箱</p><p>[奖励物品]:</p>,Translation Pending,The New West - The Great Pagoda,-0.27172509151310464,1.1934692399514546,3329,2,51
+821755,细磁茶盂,Translation Pending,Curio,<p>[获取方式]:楼梯下面佛像前桌上拿到【珍玩】细磁茶盂</p><p>增加气力恢复速度</p>,Translation Pending,The New West - The Great Pagoda,-0.91506466390274,1.260235113229328,3334,7,51
+821774,耐雪枝,Translation Pending,Curio,<p>[获取方式]:击杀魔将·莲眼获得</p>,Translation Pending,The New West - The Great Pagoda,-1.2033663873067155,0.3174319049600314,3334,7,51
+821910,吉祥灯,Translation Pending,Curio,击杀全部狱使掉落(第五层可跳下区域还有一个，每层2个）（头上有灯笼那些，妙音死了会消失）,Translation Pending,The New West - The Great Pagoda,-0.68754604802578,0.38855062755325775,3334,7,51
+821894,变化·灰蛰,Translation Pending,Vessel,<p>[相关事件]:拔出公子旁边尸体上的刀<br></p><p>如果没有尸体的请回到黄风岭沙门村鼠国国民那里触发对话。</p><p>[奖励]:获得灰蛰，新变化</p><p>提示：如果后续收集时先和公子说话，后去沙门村和鼠国国民（双头鼠），实体应该不在这里，在对应位置的二层，会触发剧情。</p>,Translation Pending,The New West - The Great Pagoda,-0.9787134404925837,0.7760969708443639,3335,8,51
+821773,神魂·四将,Translation Pending,Spirit,<p>[获取方式]:击杀魔将·莲眼获得</p>,Translation Pending,The New West - The Great Pagoda,-1.2000010973616781,0.3686581764598884,3336,9,51
+821770,菇男精魄,Translation Pending,Spirit,<p>[获取方式]:往前走木桥，左边的洞是可以直接跳进去的。洞里采蘑菇钻出来的怪，击败后得到【精魄】菇男。</p>,Translation Pending,The New West - The Great Pagoda,-1.005992692740108,0.5831292835688942,3336,9,51
+821760,夜叉奴魂魄,Translation Pending,Spirit,<p>[获取方式]:解除封印后击杀这里的青光精英夜叉奴</p>,Translation Pending,The New West - The Great Pagoda,-0.5110081115815603,1.1969388081543428,3336,9,51
+821911,戒刀僧精魄,Translation Pending,Spirit,<p>[获取方式]:可以从悬崖旁边跳下去，来到之前无法抵达的4层部分，向前走里打开监狱门。</p>,Translation Pending,The New West - The Great Pagoda,-0.5049554670020484,0.5790473098940794,3336,9,51
+821752,小张太子,Translation Pending,Characters,<p>[相关事件]:<br></p><p>暂时不能开启牢房，之后可以回来打开牢房搜刮</p><p>集齐4个魔将魂魄，可以获得一个变身，以及全游戏唯二之一的长枪（为啥猴子要用枪？？）（另一把是杨戬给的）</p><p>[奖励]:</p>,Translation Pending,The New West - The Great Pagoda,-0.9570665654358095,0.7632822883762174,3340,10,51
+821940,鼠都尉,Translation Pending,Yaoguai Chief,"<p>[奖励]:变身技能</p><p><br></p><p>[攻略要点]:<span style=""font-family: var(--van-base-font);"">黄凤领村子里的老鼠国民任务对话完，</span><span style=""font-family: var(--van-base-font);"">三太子不见了，旁边也没看见老鼠尸体时，来这里打完拔起尸体上的刀获得法术</span></p>",Translation Pending,The New West - The Great Pagoda,-0.31222953005399745,0.8100871926730235,3341,11,51
+821766,魔将·莲眼,Translation Pending,Yaoguai Chief,<p>击败魔将后，之前锁着的牢门就可以开了<br></p><p>[奖励]:</p><p>【珍玩】耐雪枝、【神魂·四将】<br></p><p>[攻略要点]:</p><p>中间无敌阶段注意躲避，飞弹用棍花，地上激光立棍<br>【躲技能点位】<br>最后一个图的位置 台阶这里 boss很多技能打不到 感觉不对劲就跑过来 回复一下再战 用好翻滚</p>,Translation Pending,The New West - The Great Pagoda,-1.1715378595996526,0.34360900946099093,3341,11,51
+821786,魔将·妙音,Translation Pending,Yaoguai King,<p>[奖励]:&nbsp;</p><p>强化素材，神魂 · 一将</p><p>[攻略要点]:</p><p>投技接近满血秒，爪子变色开始蓄力扑人了赶紧侧滚开。</p>,Translation Pending,The New West - The Great Pagoda,-0.3605953932261059,0.34874688736779547,3342,12,51
+821902,落伽香藤,Translation Pending,Luojia Fragrant Vine,<p>[获得方式]:点亮土地庙后继续前行，水潭左侧一颗树上挂着落伽香藤</p>,Translation Pending,The New West - The Great Pagoda,-0.6686406646669241,0.28048097837994135,3338,13,51
+821913,可跳下新区域,Translation Pending,Awaken Wine Worm,<p>不去打boss，从轮藏篝火往前直走到头，跳下去地上有个圆形小坛会出现一只带翅膀的小怪，从此处继续向右前方可下落至之前无法到达的区域，此处有一只1662怪，打死会给一件珍玩，附近还有一个三冬虫，在发光的罐子里（这就是戒刀僧，不知道作者怎么搞了两个…）</p>,Translation Pending,The New West - The Great Pagoda,-0.11715578909530677,0.33446909386186974,3339,14,51
+821918,三冬虫,Translation Pending,Awaken Wine Worm,<p>戒刀僧旁边发光的罐子里</p>,Translation Pending,The New West - The Great Pagoda,-0.22094531411556773,0.20478103545967485,3339,14,51
+821750,牢房 起点,Translation Pending,Tips and Tricks,从此开始……,Translation Pending,The New West - The Great Pagoda,-0.8837345886880996,0.7558153102523022,3343,17,51
+821775,捷径,Translation Pending,Tips and Tricks,前往第二层，可以回去把牢房都开了,Translation Pending,The New West - The Great Pagoda,-1.1337876502372524,0.38510218973220844,3343,17,51
+821769,独木桥,Translation Pending,Tips and Tricks,当心坠落，没有边缘保护<div>---</div><div>建议使用隐身过去，正常走会被社保</div>,Translation Pending,The New West - The Great Pagoda,-1.0136504254448084,0.5309866051639318,3343,17,51
+821843,地图编辑注,Translation Pending,Tips and Tricks,这里时间有限+没啥点位，画的就比较随意。后续如果大伙觉得不合适我就再优化一下,Translation Pending,The New West - The Great Pagoda,-0.19671228095509719,0.2898771663633539,3343,17,51
+821941,建议这个水慢慢走进去，不然卡死,Translation Pending,Tips and Tricks,,Translation Pending,The New West - The Great Pagoda,-0.6596017589514815,0.28272952687549946,3343,17,51
+821942,这里地图有错误,Translation Pending,Tips and Tricks,这里上来应该左边是土地庙，右边尽头是个鸟怪然后可以下跳到四层隐藏，有升酒的材料了，如图所示,Translation Pending,The New West - The Great Pagoda,-0.16381348923499672,0.517770639803274,3343,17,51
+821757,葛蕈小妖,Translation Pending,Tips and Tricks,,Translation Pending,The New West - The Great Pagoda,-0.9645998797757613,1.2408563847199048,3343,17,51
+821751,掌灯狱使袭击,Translation Pending,Tips and Tricks,本地图随机触发袭击，不要吃投技，会直接秒杀<div>同时缓慢减血上限，但怪物也会减血上限。。<br><div>等后面打完BOSS魔将·妙音，念经和狱卒就都会消失。<br></div></div><div>---</div><div>这货给的经验和钱巨多，想刷的话可以先不打魔将</div>,Translation Pending,The New West - The Great Pagoda,-1.0075726521079105,0.8500405478475841,3343,17,51
+821762,务必用隐身过,Translation Pending,Tips and Tricks,不用隐身简直折磨，我被打下去好几次，换隐身一次过<div>用棍花挡箭很可能会摔下去，也可第一个口子跳跃加重棍进牢房，走里面过。</div>,Translation Pending,The New West - The Great Pagoda,-0.5687607744861793,1.10085110387395,3343,17,51
+821759,可以往下跳,Translation Pending,Secret Location,注意别直接摔死，下面有个封印监牢，另一个方向回到第一层起点,Translation Pending,The New West - The Great Pagoda,-0.2918071683790515,1.2361592955286511,3344,18,51
+821764,此处可跳下,Translation Pending,Secret Location,打隐藏魔将，建议先摸土地庙,Translation Pending,The New West - The Great Pagoda,-1.1338023061616695,0.31910466748036015,3344,18,51
+821842,紫色封印大门,Translation Pending,Secret Location,前往上层篝火附近，打败魔将莲眼就能解开,Translation Pending,The New West - The Great Pagoda,-1.0345180938597025,0.8109514108831348,3344,18,51
+821913,可跳下新区域,Translation Pending,Secret Location,<p>不去打boss，从轮藏篝火往前直走到头，跳下去地上有个圆形小坛会出现一只带翅膀的小怪，从此处继续向右前方可下落至之前无法到达的区域，此处有一只1662怪，打死会给一件珍玩，附近还有一个三冬虫，在发光的罐子里（这就是戒刀僧，不知道作者怎么搞了两个…）</p>,Translation Pending,The New West - The Great Pagoda,-0.11715578909530677,0.33446909386186974,3344,18,51
+821909,可以跳下去,Translation Pending,Secret Location,"先要从地图上""可跳下新区域”跳到一层新地方，最后面有一个戒刀僧精魂，最好五层棺材宝箱往下跳",Translation Pending,The New West - The Great Pagoda,-0.49245670771315986,0.5841306667365984,3344,18,51
+821944,上一个哥们没写具体地点，我写一下,Translation Pending,Secret Location,传送到轮到轮藏传送点然后回头，就可以看到跟我图片一样的地方了，然后打完那个蝙蝠怪再往里走就可以看到我第三张图片的地方了,Translation Pending,The New West - The Great Pagoda,-0.13287490748959385,0.33738614868290995,3344,18,51
+821788,浮屠界 经筒外,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p>,Translation Pending,The New West - Pagoda Realm,-1.1168555475601636,0.2822094179851291,3346,0,52
+821778,浮屠界 安身寺,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p>,Translation Pending,The New West - Pagoda Realm,-0.4157293823046473,0.8079273542539624,3346,0,52
+821790,浮屠界 冲寒道,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p>,Translation Pending,The New West - Pagoda Realm,-0.5763818669222474,0.6530139488560707,3346,0,52
+821792,浮屠界-浮屠塔,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货（进去之后左手边）</p>,Translation Pending,The New West - Pagoda Realm,-1.0007227355194175,0.8839489440404407,3346,0,52
+821791,苦海-苦海南岸,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p><p>这个点要打完亢金星君回来才会有</p>,Translation Pending,The New West - Pagoda Realm,-0.33812067550087477,0.9701764200557506,3346,0,52
+821799,浮屠界冰崖底,Translation Pending,Meditation Spot,<p>仙丹后面的篱笆可打烂，后面还有路，就是打坐点</p>,Translation Pending,The New West - Pagoda Realm,-0.7172267846285081,0.6077602798715276,3347,1,52
+821780,虚空结,Translation Pending,Chest,<p>[奖励物品]:虚空结</p>,Translation Pending,The New West - Pagoda Realm,-0.46851256132453045,0.9968575074495902,3348,2,52
+821800,宝箱,Translation Pending,Chest,<p>[奖励物品]:寒铁叶×2</p>,Translation Pending,The New West - Pagoda Realm,-0.2714704964462271,0.7215823253864926,3348,2,52
+821783,宝箱,Translation Pending,Chest,<p>[奖励物品]:铁中血，镔铁砂，寒铁叶</p>,Translation Pending,The New West - Pagoda Realm,-0.36104471642724434,0.8925992354708114,3348,2,52
+821789,太乙紫金丹,Translation Pending,Pill,<p>拿完金丹后，往背后走，里面有小怪</p><p>[注意事项]:增加法力上限</p>,Translation Pending,The New West - Pagoda Realm,-0.731061547919893,0.5889183999339593,3349,3,52
+821779,隼居士精魄,Translation Pending,Spirit,<p>[获取方式]:</p>,Translation Pending,The New West - Pagoda Realm,-0.6907395485329175,1.1063363633477366,3355,9,52
+821926,葫芦仙人,Translation Pending,Characters,"<p><span style=""font-family: var(--van-base-font);"">[奖励]:可得安身法，画地为牢</span><br></p><p><span style=""font-family: var(--van-base-font);"">---</span></p><p>这咋和预告片展示的不一样呢</p>",Translation Pending,The New West - Pagoda Realm,-0.3277192692978588,0.8559219156731075,3359,10,52
+821782,赤尻马猴,Translation Pending,Yaoguai Chief,<p>[奖励]:</p><p>神通-安身法</p><p>[攻略要点]:</p><p>该说不说，这猴子是我打起来体验最好的，招式一板一眼贼快乐。用前面拿的鼠变身，变身后火烤吗喽，伤害非常高</p>,Translation Pending,The New West - Pagoda Realm,-0.3452049168101894,0.8581075266549192,3360,11,52
+821798,落伽香藤,Translation Pending,Luojia Fragrant Vine,<p>[获得方式]:水池中的树上</p>,Translation Pending,The New West - Pagoda Realm,-1.0212539410121053,0.4325439492457832,3357,13,52
+821946,交梨,Translation Pending,Rare Ingredient,,Translation Pending,The New West - Pagoda Realm,-0.4095928904159507,0.8935967558519735,3364,16,52
+821947,树珍珠,Translation Pending,Rare Ingredient,<p>挂在树上的，交互一下就好了</p>,Translation Pending,The New West - Pagoda Realm,-0.6382789339142789,0.7414848900174036,3364,16,52
+821949,树珍珠,Translation Pending,Rare Ingredient,,Translation Pending,The New West - Pagoda Realm,-0.4677944795621727,0.8166308164385185,3364,16,52
+821945,树珍珠,Translation Pending,Rare Ingredient,<p>概率掉落种子</p>,Translation Pending,The New West - Pagoda Realm,-0.24385303574104,0.6484762250549636,3364,16,52
+821920,树珍珠,Translation Pending,Rare Ingredient,就只是普通的丹药材料，不是稀有道具或物品,Translation Pending,The New West - Pagoda Realm,-0.9256829367922137,0.6469664509028377,3364,16,52
+821927,摸墙触发传送，里面有个土地庙,Translation Pending,Tips and Tricks,,Translation Pending,The New West - Pagoda Realm,-0.9451362164433874,0.9289234397837021,3362,17,52
+821945,树珍珠,Translation Pending,Tips and Tricks,<p>概率掉落种子</p>,Translation Pending,The New West - Pagoda Realm,-0.24385303574104,0.6484762250549636,3362,17,52
+821781,可跳,Translation Pending,Tips and Tricks,跳跃+重击可以上去（很容易跳，注意是进寺庙前左转角落里）,Translation Pending,The New West - Pagoda Realm,-0.3892657150931882,0.8867080061874617,3362,17,52
+821953,前往龟岛,Translation Pending,Tips and Tricks,一路滑雪下来后到达龟岛,Translation Pending,The New West - Pagoda Realm,-0.32517148913910887,0.9605582610372352,3362,17,52
+821928,画廊,Translation Pending,Tips and Tricks,里面有7面墙，从左到右分别是已通关的章回（貌似集齐画作后，可触摸中间墙壁进入挑战隐藏boss二郎神）（第一回第二回第四回和第五回法宝全收集可进入）还需要完成第三章瓜田的任务才能进入，小弥勒会指引你到这里,Translation Pending,The New West - Pagoda Realm,-1.076021428685067,0.9227583711677312,3362,17,52
+821793,苦海北岸,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p>,Translation Pending,The New West - Bitter Lake,-0.9582534802131022,0.34490784927362483,3365,0,53
+821794,苦海-龟岛,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p><p>土地庙披挂铸造解锁【龙鳞套装】<br></p>,Translation Pending,The New West - Bitter Lake,-1.0970381683003154,0.18180796395309073,3365,0,53
+821796,极乐谷-一念壁,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p>,Translation Pending,The New West - Bitter Lake,-0.3853123566710792,1.1294804640673135,3365,0,53
+821797,极乐谷-快活林,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p>,Translation Pending,The New West - Bitter Lake,-0.25136478027141607,1.294766096809866,3365,0,53
+821795,苦海-戒语廊,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p>,Translation Pending,The New West - Bitter Lake,-0.5934632198811016,0.7285464860428306,3365,0,53
+821820,戒语廊佛像前,Translation Pending,Meditation Spot,<p>[地点描述]:坐上去欣赏风景可得一个技能点</p>,Translation Pending,The New West - Bitter Lake,-0.5137282174030702,0.8077493973938203,3366,1,53
+821834,一念壁石道旁,Translation Pending,Meditation Spot,<p>[地点描述]:击败不白，坐上去欣赏风景可得一个技能点</p>,Translation Pending,The New West - Bitter Lake,-0.28759826830912516,1.2397936103073164,3366,1,53
+821805,宝箱,Translation Pending,Chest,<p>[奖励物品]:</p>,Translation Pending,The New West - Bitter Lake,-1.002835452683513,0.19577029290172732,3367,2,53
+821921,宝箱,Translation Pending,Chest,<p>[奖励物品]钱和镔铁砂</p>,Translation Pending,The New West - Bitter Lake,-0.8871671964716654,0.21122691087263945,3367,2,53
+821824,宝箱,Translation Pending,Chest,<p>[奖励物品]:镔铁砂</p>,Translation Pending,The New West - Bitter Lake,-0.4066901210710796,1.005416633831473,3367,2,53
+821932,宝箱,Translation Pending,Chest,打完辰龙旁边码头上,Translation Pending,The New West - Bitter Lake,-1.0722066120550267,0.33719691182552936,3367,2,53
+821831,燃葫芦,Translation Pending,Chest,<p>[奖励物品]:</p><p>从一念壁土地庙出发，下附图</p><p>这个地方尽头可以顺便拿 想蕴</p>,Translation Pending,The New West - Bitter Lake,-0.37739529189485665,1.2239912016927263,3367,2,53
+821924,宝箱,Translation Pending,Chest,<p>[奖励物品]:寒铁叶*2</p><p>拿了碧藕金丹地图边还能往下跳，有两只怪，顺着路走到尽头</p>,Translation Pending,The New West - Bitter Lake,-1.125351956129009,0.23552460498819983,3367,2,53
+821905,棺材宝箱,Translation Pending,Chest,<p>[奖励物品]:镔铁砂</p>,Translation Pending,The New West - Bitter Lake,-0.9984698991241601,0.2356990908933767,3367,2,53
+821819,宝箱,Translation Pending,Chest,<p>[奖励物品]:寒铁叶</p>,Translation Pending,The New West - Bitter Lake,-0.7378190297410185,0.6216080895434004,3367,2,53
+821816,宝箱,Translation Pending,Chest,<p>[奖励物品]:玲珑内丹?&nbsp; or镔铁砂</p><p><br></p>,Translation Pending,The New West - Bitter Lake,-0.497320928967099,0.4405394455235552,3367,2,53
+821810,宝箱,Translation Pending,Chest,<p>[奖励物品]:寒铁叶</p>,Translation Pending,The New West - Bitter Lake,-0.9428452126645084,0.5472969449232608,3367,2,53
+821804,棺材宝箱,Translation Pending,Chest,<p>[奖励物品]:玲珑内丹</p>,Translation Pending,The New West - Bitter Lake,-1.1008643466167882,0.2624448683635592,3367,2,53
+821806,碧藕金丹,Translation Pending,Pill,<p>[注意事项]:上香点往左看，往第三张图那边走就行，这棵树很明显。</p>,Translation Pending,The New West - Bitter Lake,-1.119895158216167,0.20422922927099307,3368,3,53
+821814,龟泪,Translation Pending,Vessel/Drink/Soak,<p>[注意事项]</p><p>找到蛇将的骸骨后出现</p>,Translation Pending,The New West - Bitter Lake,-0.9530248360952669,0.31484002473284534,3369,4,53
+821803,十二重楼胶,Translation Pending,Vessel/Drink/Soak,<p>击败青背龙后开宝箱出现</p>,Translation Pending,The New West - Bitter Lake,-1.0573124495512332,0.14535575568872616,3369,4,53
+821811,蓝桥风月,Translation Pending,Vessel/Drink/Soak,可装三个泡酒物<div>每次喝酒恢复36%，饮酒增加少许移动速度</div>,Translation Pending,The New West - Bitter Lake,-0.9293667742150831,0.5666791453195543,3369,4,53
+821821,[丹方]聚珍伏虎丸,Translation Pending,Formula,<p>[注意事项]:在打坐的下面</p>,Translation Pending,The New West - Bitter Lake,-0.5302082758591666,0.7900380946846468,3370,5,53
+821817,如意画轴,Translation Pending,Key Item,<p>[获取方式]:先打败一次辰龙，进对话，回黄风岭地窟找狗拿药（可能要跟辰龙来回跑两次）<br><br></p><p>[用途]:可以回到快乐老家了</p>,Translation Pending,The New West - Bitter Lake,-1.0871353858777866,0.42048162782285203,3371,6,53
+821832,想蕴,Translation Pending,Key Item,<p>[获取方式]: 一念壁篝火右前方边缘处跳下<br>在石柱处可以跳下 一路向上走</p><p>看到老鼠逃走后调查石头得到</p><p>[用途]:</p>,Translation Pending,The New West - Bitter Lake,-0.32177464832150804,1.2136333166324107,3371,6,53
+821833,未来珠,Translation Pending,Curio,<p>[获取方式]:极其重要，可用来抵挡致命伤害</p>,Translation Pending,The New West - Bitter Lake,-0.3223086542589897,1.260081007318945,3372,7,53
+821952,铜佛坠(概率掉落),Translation Pending,Curio,<p>[获取方式]：打怪掉落，不确定是否为概率掉落</p><p>[属性]：增加四灾抗性各5点</p>,Translation Pending,The New West - Bitter Lake,-0.49369056079635243,0.35992976542391375,3372,7,53
+821923,赤发鬼精魄,Translation Pending,Spirit,<p>[获取方式]：更正赤发鬼精魄位置</p>,Translation Pending,The New West - Bitter Lake,-0.4323478197487418,0.846958946345282,3374,9,53
+821818,寅虎,Translation Pending,Characters,<p>[相关事件]:<br></p><p><br></p><p>[奖励]:</p>,Translation Pending,The New West - Bitter Lake,-0.9621350047914916,0.4504423481057387,3378,10,53
+821807,猪八戒,Translation Pending,Characters,<p>[相关事件]:<br></p><p>打败亢金星君后，八戒就会和你共同冒险一段时间</p><p>[奖励]:</p>,Translation Pending,The New West - Bitter Lake,-1.000807748823064,0.28315929717705046,3378,10,53
+821950,戌狗,Translation Pending,Characters,<p>[相关事件]:打完寅虎<br></p><p><br></p><p>[奖励]:会给你特殊丹药</p>,Translation Pending,The New West - Bitter Lake,-0.9454091833488292,0.4427846695818687,3378,10,53
+821922,寅虎,Translation Pending,Characters,<p>（在如意画轴，不在地图点位）</p><p>[相关事件]:可强化装备，可进行两次挑战<br></p><p><br></p><p>[奖励]:第一次胜利后获得新变身“乌川”</p><p>第二次胜利后获得追加珍玩装备栏</p>,Translation Pending,The New West - Bitter Lake,-0.9656499516269434,0.4496810475992419,3378,10,53
+821808,辰龙,Translation Pending,Characters,<p>[相关事件]:<br></p><p>1.在水边自言自语，过去以后触发boss战（很菜）</p><p>2.打赢后会撒泼要仙丹吃，找（黄风地窟）狗子聊天领了仙丹喂他</p><p>3.给你如意画轴，可以随时回到类似传火祭祀场的地方</p><p>注:如果拿了仙丹还不能触发剧情就再找一次狗子之后再给仙丹</p><p>画轴的铁匠寅虎记得切磋，打赢给个很强的变身</p><p>打赢1次给变身术乌川可以变身寅虎，并且可以解锁第三珍宝位，打赢第二次给玄铁套</p><p>[奖励]:</p><p>如意画轴</p>,Translation Pending,The New West - Bitter Lake,-1.0866028470030642,0.4166947241752865,3378,10,53
+821823,小和尚,Translation Pending,Characters,<p>[相关事件]:来到这里后先找小和尚触发拜4佛任务，拜完后<br></p><p>再来找小佛，完成后八戒会离队</p><p>注：先找小和尚，然后从左手边开始拜佛，不要先去右边（右边必须拜佛开路，先走会白白走半天）</p><p>[奖励]:</p>,Translation Pending,The New West - Bitter Lake,-0.5113832205363451,0.9137606366415696,3378,10,53
+821809,斗笠和尚支线1,Translation Pending,Characters,<p>[相关事件]:和尚支线<br></p><p><br></p><p>[奖励]:完成后给禁字决。这是解锁二郎神的必要任务</p>,Translation Pending,The New West - Bitter Lake,-0.9268421873614443,0.48462097366528667,3378,10,53
+821830,不白,Translation Pending,Yaoguai Chief,<p>[奖励]:</p><p><br></p><p>[攻略要点]:</p>,Translation Pending,The New West - Bitter Lake,-0.39653547958377544,1.1565069052549006,3379,11,53
+821812,无量蝠,Translation Pending,Yaoguai Chief,"<p><span style=""font-family: var(--van-base-font);"">[攻略要点]:</span></p><p><span style=""font-family: var(--van-base-font);"">需要八戒跟随，注意会被冰冻</span><br></p><p>打败黄眉大王再回来，这个BOSS会消失</p>",Translation Pending,The New West - Bitter Lake,-0.5161360589540891,0.15160963180302645,3379,11,53
+821925,不白,Translation Pending,Yaoguai Chief,<p>[奖励]:</p><p><br></p><p>[攻略要点]:不白逃跑后会再打一次</p>,Translation Pending,The New West - Bitter Lake,-0.3037375954353365,1.247821850534109,3379,11,53
+821808,辰龙,Translation Pending,Yaoguai King,<p>[奖励]:</p><p><br></p><p>[攻略要点]:</p>,Translation Pending,The New West - Bitter Lake,-1.0602007315541186,0.43327958302714364,3380,12,53
+821802,青背龙,Translation Pending,Yaoguai King,<p>[奖励]:</p><p>龙珠<br></p><p>[攻略要点]:定风珠可打断附魔，打断后尽量压着打否则可能再次附魔</p><p>把分身术点满压着他打，不让他出二阶段就能随便拿捏</p>,Translation Pending,The New West - Bitter Lake,-1.0362998741801732,0.15436111432255473,3380,12,53
+821954,亢金星君,Translation Pending,Yaoguai King,<p>[奖励]:</p><p>龙珠</p><p>[攻略要点]:</p>,Translation Pending,The New West - Bitter Lake,-1.0569062390813713,0.23444529086823707,3380,12,53
+821815,落伽香藤,Translation Pending,Luojia Fragrant Vine,<p>[获得方式]:进门打两只小怪就能拿</p>,Translation Pending,The New West - Bitter Lake,-0.5503653709287448,0.31661865043531634,3376,13,53
+821827,佛像3,Translation Pending,Tips and Tricks,,Translation Pending,The New West - Bitter Lake,-0.6410358876351268,0.8190408117379775,3381,17,53
+821829,山路堵死 ,Translation Pending,Tips and Tricks,拜4个佛像开路,Translation Pending,The New West - Bitter Lake,-0.46011816448813647,0.9896046981298952,3381,17,53
+821828,佛像4,Translation Pending,Tips and Tricks,,Translation Pending,The New West - Bitter Lake,-0.3901550917530301,0.9036248963183908,3381,17,53
+821837,地图编辑注,Translation Pending,Tips and Tricks,因为龟岛没什么参照物，就随便画了。。相信大家能看懂<div>如果看不懂麻烦评论，我就再润色一下</div>,Translation Pending,The New West - Bitter Lake,-1.2293341053731979,0.24120739563689142,3381,17,53
+821917,燃葫芦在一念壁土地庙右边跳下来的捷径里,Translation Pending,Tips and Tricks,,Translation Pending,The New West - Bitter Lake,-0.3623509396787199,1.1481588766438051,3381,17,53
+821951,先别急着上山,Translation Pending,Tips and Tricks,先处理辰龙和龟将的支线任务,Translation Pending,The New West - Bitter Lake,-0.7463962562575261,0.39336922907176586,3381,17,53
+821914,想蕴捷径在这！！,Translation Pending,Tips and Tricks,第一次打不白的平台，朝右边悬崖有颗树那走过去，可以慢慢跳下去,Translation Pending,The New West - Bitter Lake,-0.38693971091393564,1.148436410829575,3381,17,53
+821826,佛像2,Translation Pending,Tips and Tricks,下来楼梯右转,Translation Pending,The New West - Bitter Lake,-0.6052574898164096,0.8761731924499685,3381,17,53
+821813,蛇将的骸骨,Translation Pending,Tips and Tricks,和八戒来会触发boss战，单人好像就不会触发<div>更新：单人来可以触发，无量蝠打完再去跟蛇骨互动，正常掉落龟泪</div>,Translation Pending,The New West - Bitter Lake,-0.4369082370163824,0.18051629637999156,3381,17,53
+821825,佛像1,Translation Pending,Tips and Tricks,,Translation Pending,The New West - Bitter Lake,-0.5813169508570581,0.9270441656109938,3381,17,53
+821849,极乐谷-快活林,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p>,Translation Pending,The New West - Valley of Ecstasy,-0.4730781608360246,0.3172378984172326,3384,0,54
+821856,极乐谷-无忧涧,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p>,Translation Pending,The New West - Valley of Ecstasy,-0.3194501186989953,0.19068274860401857,3384,0,54
+821852,极乐谷-瓜田,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p>,Translation Pending,The New West - Valley of Ecstasy,-0.2113199033604758,0.160100445507652,3384,0,54
+821862,罪业塔林,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p>,Translation Pending,The New West - Valley of Ecstasy,-0.558372897530603,0.6363799154387664,3384,0,54
+821935,极乐谷-长生大道,Translation Pending,Shrine,<p>旁边有怪，建议满状态来，来的路比较长，难以补状态。类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p>,Translation Pending,The New West - Valley of Ecstasy,-0.6345694806971665,0.8387796695821663,3384,0,54
+821930,宝箱,Translation Pending,Chest,在刚吸收的神魂三将后面,Translation Pending,The New West - Valley of Ecstasy,-0.6103156821699542,0.9323673427860513,3386,2,54
+821916,铁参银骨(随机),Translation Pending,Vessel/Drink/Soak,<p>[注意事项]</p>,Translation Pending,The New West - Valley of Ecstasy,-0.5824184986277601,0.6346139607082506,3388,4,54
+821884,酒品-琼浆,Translation Pending,Vessel/Drink/Soak,<p>[注意事项]可以恢复少许法力</p>,Translation Pending,The New West - Valley of Ecstasy,-0.4458567509587681,0.6916951676921173,3388,4,54
+821857,白狐毫,Translation Pending,Key Item,"<p>[获取方式]:路过靠近会触发女声对话，给你变身狐狸（不能打架）<span style=""font-family: var(--van-base-font);"">的道具，请你带她去小雷音寺偏殿看人（头目 不空）,打完不空后回来对话可以拿到白狐毫珍玩</span></p><p><br></p><p>[用途]:白狐毫：少许增加变身维持时间</p>",Translation Pending,The New West - Valley of Ecstasy,-0.4258023343760158,0.36134365380571865,3390,6,54
+821929,[头冠]鳖宝头骨,Translation Pending,Curio,<p>[获取方式]:击杀鳖宝概率掉落</p>,Translation Pending,The New West - Valley of Ecstasy,-0.7010999617165226,0.7599593433171492,3391,7,54
+821933,金棕衣,Translation Pending,Curio,<p>[获取方式]:从第三回【极乐谷-长生大道】土地庙出发，进入土地庙前方木门之后往左前方走，击败前方雪地上的焦面鬼王（超大巨人）即可获得</p>,Translation Pending,The New West - Valley of Ecstasy,-1.0441187587080663,0.6418379017731297,3391,7,54
+821858,兽与佛(随机),Translation Pending,Curio,<p>[获取方式]击败庙门前双刀僧侣（罪业塔林附近也可掉，推荐在罪业塔林刷，离得近）概率获得</p><p>少许增加暴击伤害</p>,Translation Pending,The New West - Valley of Ecstasy,-0.6058342143304287,0.8484843382039315,3391,7,54
+821957,雷火印,Translation Pending,Curio,<p>[获取方式]:击杀雷电长老有几率获得</p><p>「一定程度上增加［法力上限］」</p>,Translation Pending,The New West - Valley of Ecstasy,-0.41638192363609505,0.15634831516086933,3391,7,54
+821859,不能精魄,Translation Pending,Spirit,<p>[获取方式]:击败“不能”获得</p>,Translation Pending,The New West - Valley of Ecstasy,-0.3243999055566462,0.13105950374958297,3393,9,54
+821861,鸦香客精魄,Translation Pending,Spirit,<p>[获取方式]:</p>,Translation Pending,The New West - Valley of Ecstasy,-0.28314690709203205,0.20762427193356814,3393,9,54
+821896,神魂·三将,Translation Pending,Spirit,<p>[获取方式]:倒地上的树人，互动就可以吸取</p><p>---</p><p>雪地里发现个魔将的尸体，互动得到【神魂·三将】<br></p>,Translation Pending,The New West - Valley of Ecstasy,-0.6159745741458664,0.9635906298618551,3393,9,54
+821885,老人参精魄,Translation Pending,Spirit,<p>[获取方式]:</p>,Translation Pending,The New West - Valley of Ecstasy,-0.4524413210697844,0.6763322656575781,3393,9,54
+821879,弥勒佛,Translation Pending,Characters,<p>[相关事件]:<br></p><p>1.在给要火的npc画圈后，到瓜田会触发boss战</p><p>2.boss战后，弥勒佛出现并给予【禁字术】</p><p><br></p><p>[奖励]:</p><p>【禁字术】<br></p>,Translation Pending,The New West - Valley of Ecstasy,-0.21321227230248496,0.12466259110111366,3396,10,54
+821881,斗笠和尚支线2,Translation Pending,Characters,<p>[相关事件]:<br></p><p>会在这里说要火，用画圈法术即可</p><p>前面打马猴给了一个画个圈圈诅咒你，到旁边的土地庙换一下，换好了在他面前画一下</p><p>[奖励]:</p><p>方位：土地庙正对方向直走</p>,Translation Pending,The New West - Valley of Ecstasy,-0.6226495167733503,0.6211420697153613,3396,10,54
+821851,浪里个浪,Translation Pending,Yaoguai Chief,<p>[奖励]:小活师（材料）</p><p><br></p><p>[攻略要点]:</p>,Translation Pending,The New West - Valley of Ecstasy,-0.6174549898738348,0.23530106342083457,3397,11,54
+821854,不能,Translation Pending,Yaoguai Chief,<p>[奖励]:</p><p>有二段</p><p>[攻略要点]:</p>,Translation Pending,The New West - Valley of Ecstasy,-0.34749141744543977,0.14728434914148636,3397,11,54
+821882,翠笠武师,Translation Pending,Yaoguai Chief,<p>[奖励]:</p><p><br></p><p>[攻略要点]:就是要吃这吃那的哥们，拿个大火轮，躲趁机a</p>,Translation Pending,The New West - Valley of Ecstasy,-0.21716054259269413,0.1283288075804876,3397,11,54
+821883,老人参精,Translation Pending,Yaoguai Chief,<p>与地上的采集植物互动会触发与BOSS【老人参精】的战斗，击败老人参精即可获得精魄。</p><p>[奖励]:衣甲-山珍蓑衣</p><p><br></p><p>[攻略要点]:</p>,Translation Pending,The New West - Valley of Ecstasy,-0.4648788423921246,0.6734059930562779,3397,11,54
+821955,魔将 劫波,Translation Pending,Yaoguai Chief,<p>[奖励]:</p><p><br></p><p>[攻略要点]:</p>,Translation Pending,The New West - Valley of Ecstasy,-0.7763339673036853,0.8788296625803724,3397,11,54
+821855,落伽香藤,Translation Pending,Luojia Fragrant Vine,<p>[获得方式]:图示位置不准确。这边比较远，看到可以直接拿，注意旁边会刷2个芭蕉扇鸟人，对照地形可以观察旁边是不是山崖下的溪流和小湖</p>,Translation Pending,The New West - Valley of Ecstasy,-0.8834729762094753,0.4277541927452688,3394,13,54
+821866,三冬虫,Translation Pending,Awaken Wine Worm,<p>在发光的罐子里，注意这里有只特殊小怪鳖宝，小心被偷袭</p>,Translation Pending,The New West - Valley of Ecstasy,-0.8117907347085804,0.7086345943873482,3395,14,54
+821864,前往:小雷音寺,Translation Pending,Tips and Tricks,,Translation Pending,The New West - Valley of Ecstasy,-0.7875769628962814,1.0015933426473964,3399,17,54
+821877,去往瓜田,Translation Pending,Tips and Tricks,看到悬崖边有个小怪站在那里顺着往下跳瓜田在下边，跳两个平台下去，然后过树桥（到悬崖前还有个倒着的钟，里边还有魄可以拿）,Translation Pending,The New West - Valley of Ecstasy,-0.2228268938531528,0.19649604317071123,3399,17,54
+821898,焦面鬼王[PV中的巨大僧人],Translation Pending,Tips and Tricks,血条很低，带定身术2分钟搞定,Translation Pending,The New West - Valley of Ecstasy,-0.4375909887314151,0.9077757786295706,3399,17,54
+821956,这边少了一条岔路,Translation Pending,Tips and Tricks,这边少了一条岔路，沿着坡往上走，可以看到一个箱子,Translation Pending,The New West - Valley of Ecstasy,-0.5524864941247927,0.3590787507875888,3399,17,54
+821863,小雷音寺-大殿,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p>,Translation Pending,The New West - New Thunderclap Temple,-0.7417182858184503,1.0485099411334886,3402,0,55
+821847,小雷音寺-寺门,Translation Pending,Shrine,<p>类似篝火，建议每个土地庙都看下商店和铸造有没有新货</p>,Translation Pending,The New West - New Thunderclap Temple,-0.7080223864250854,0.5213721778025899,3402,0,55
+821867,雷音寺佛殿内打坐处,Translation Pending,Meditation Spot,<p>[地点描述]:坐上去欣赏风景可得一个技能点</p>,Translation Pending,The New West - New Thunderclap Temple,-0.4459411621110121,0.867525769129557,3403,1,55
+821860,虚空结,Translation Pending,Chest,<p>[奖励物品]:</p>,Translation Pending,The New West - New Thunderclap Temple,-0.3193898058252671,0.5237334505299458,3404,2,55
+821938,寒铁叶,Translation Pending,Chest,<p>[奖励物品]:</p>,Translation Pending,The New West - New Thunderclap Temple,-0.8477397265747584,0.5780996396073448,3404,2,55
+821848,宝箱,Translation Pending,Chest,<p>[奖励物品]:碎金片*3&nbsp; &nbsp;镔铁砂*1</p>,Translation Pending,The New West - New Thunderclap Temple,-0.737997597716685,0.34232519417777496,3404,2,55
+821936,九转仙丹,Translation Pending,Pill,<p>下面那个位置不是仙丹是配方</p>,Translation Pending,The New West - New Thunderclap Temple,-1.090609931083577,0.82769852311786,3405,3,55
+821907,甜雪,Translation Pending,Vessel/Drink/Soak,<p>在墙边小亭子的桌上的小盒子里获得</p>,Translation Pending,The New West - New Thunderclap Temple,-0.28182984695521895,0.5713759429142726,3406,4,55
+821874,[丹方]轻身散,Translation Pending,Formula,<p>[注意事项]:服用后一定时间内，体术动作不消耗气力</p>,Translation Pending,The New West - New Thunderclap Temple,-0.9168346732284078,0.8363218804279455,3407,5,55
+821873,雷榍,Translation Pending,Curio,<p>看到两双脚的妖后转身，正中的桌上盒子里</p>,Translation Pending,The New West - New Thunderclap Temple,-0.6347606433111252,0.6621250152584537,3409,7,55
+821937,雷火印(概率),Translation Pending,Curio,<p>[获取方式]:击杀远程法师有概率掉落</p>,Translation Pending,The New West - New Thunderclap Temple,-0.5794743582812032,0.5579728135463853,3409,7,55
+821915,金刚护臂,Translation Pending,Curio,<p>[获取方式]:击杀泥塑金刚概率获取一个护手</p>,Translation Pending,The New West - New Thunderclap Temple,-0.640019553896451,0.7611822610961809,3409,7,55
+821876,不空精魄,Translation Pending,Spirit,<p>[获取方式]:</p>,Translation Pending,The New West - New Thunderclap Temple,-1.3034652517573306,0.6052112654154627,3411,9,55
+821906,泥塑金刚精魄,Translation Pending,Spirit,<p>[获取方式]:击败泥塑金刚</p>,Translation Pending,The New West - New Thunderclap Temple,-0.6390215877439687,0.7911479383714237,3411,9,55
+821869,马哥,Translation Pending,Characters,<p>[相关事件]:<br></p><p>马哥在这已经被忽悠瘸了，和他对话一次即可</p><p>[奖励]:对话3次左右获得一个红葫芦</p>,Translation Pending,The New West - New Thunderclap Temple,-0.9375793457134876,0.7549272109722978,3414,10,55
+821871,不净,Translation Pending,Yaoguai Chief,<p>[奖励]:</p><p><br></p><p>[攻略要点]:</p>,Translation Pending,The New West - New Thunderclap Temple,-0.5118591308600173,0.8737048652788388,3415,11,55
+821870,不空,Translation Pending,Yaoguai Chief,<p>[相关事件]:<br></p><p>小狐狸要找的人（需要变身进门）</p><p>[奖励]:需要回到快活林交付任务</p>,Translation Pending,The New West - New Thunderclap Temple,-1.2258343719391007,0.5654647138502895,3415,11,55
+821872,海上僧,Translation Pending,Yaoguai Chief,<p>[奖励]:</p><p>【法术】皓霜<br></p><p>[攻略要点]:靠近雕像才会现身</p>,Translation Pending,The New West - New Thunderclap Temple,-0.271213270294993,0.556794015266334,3415,11,55
+821880,黄眉,Translation Pending,Yaoguai King,<p>[奖励]:</p><p><br></p><p>[攻略要点]:</p><p>“禁字法”<br></p><p>金身和大招可以用三段重击直接破，可以眩晕boss</p>,Translation Pending,The New West - New Thunderclap Temple,-0.6468376940129019,1.1335301875167119,3416,12,55
+821899,魔将·劫波,Translation Pending,Yaoguai King,<p>[奖励]:[神魂 二将]</p><p><br></p><p>[攻略要点]:比较脆，不太难打，喷血高频伤害可以用变身规避</p>,Translation Pending,The New West - New Thunderclap Temple,-0.6334934969889616,0.2542254204167733,3416,12,55
+821870,小狐狸的老公,Translation Pending,Tips and Tricks,,Translation Pending,The New West - New Thunderclap Temple,-1.223223876954819,0.5915169164626803,3417,17,55
+821868,寺门封印,Translation Pending,Tips and Tricks,打败守门头目方可进入,Translation Pending,The New West - New Thunderclap Temple,-0.6362562347307801,0.30982608924641397,3417,17,55
+821878,闭眼禅(概率),Translation Pending,Tips and Tricks,在小雷音寺里刷盲僧有概率掉落【头冠】闭眼禅<div>防御 25，更容易触发闪身</div>,Translation Pending,The New West - New Thunderclap Temple,-0.7481130969336505,0.882268510934864,3417,17,55
